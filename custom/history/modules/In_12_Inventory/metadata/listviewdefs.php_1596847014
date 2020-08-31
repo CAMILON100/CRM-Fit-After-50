@@ -1,0 +1,23 @@
+<?php
+$module_name = 'In_12_Inventory';
+$OBJECT_NAME = 'IN_12_INVENTORY';
+$listViewDefs [$module_name] = 
+array (
+  'NAME' => 
+  array (
+    'width' => '30%',
+    'label' => 'LBL_LIST_SALE_NAME',
+    'link' => true,
+    'default' => true,
+  ),
+  'AMOUNT_USDOLLAR' => 
+  array (
+    'width' => '10%',
+    'label' => 'LBL_LIST_AMOUNT',
+    'align' => 'right',
+    'default' => true,
+    'currency_format' => true,
+  ),
+);
+;
+?>

@@ -1,0 +1,927 @@
+Tue Mar 10 19:35:26 2020 [18298][-none-][FATAL] SECURITY: User authentication for Admin failed
+Tue Mar 10 19:35:26 2020 [18298][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.169.166.16], username[Admin]
+Tue Mar 10 19:35:41 2020 [18310][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Mar 10 19:35:41 2020 [18310][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.169.166.16], username[admin]
+Tue Mar 10 19:36:10 2020 [18320][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Mar 10 19:36:10 2020 [18320][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.169.166.16], username[admin]
+Tue Mar 10 19:36:26 2020 [18345][-none-][FATAL] SECURITY: User authentication for Admin failed
+Tue Mar 10 19:36:26 2020 [18345][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.169.166.16], username[Admin]
+Tue Mar 10 19:36:42 2020 [18363][-none-][FATAL] SECURITY: User authentication for Admin failed
+Tue Mar 10 19:36:42 2020 [18363][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.169.166.16], username[Admin]
+Tue Mar 10 20:33:57 2020 [20395][1][FATAL] IP Address mismatch: SESSION IP: 191.156.55.23 CLIENT IP: 191.156.63.166
+Wed Mar 11 14:19:40 2020 [26419][1][FATAL] Undefined index: module
+Wed Mar 11 14:19:40 2020 [26419][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Wed Mar 11 14:19:40 2020 [26419][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Wed Mar 11 14:20:01 2020 [26428][1][FATAL] Email address save error
+Wed Mar 11 14:20:44 2020 [26454][1][FATAL] Undefined index: module
+Wed Mar 11 14:20:44 2020 [26454][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Wed Mar 11 14:20:44 2020 [26454][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Wed Mar 11 14:21:42 2020 [26484][1][FATAL] Undefined index: module
+Wed Mar 11 14:21:42 2020 [26484][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Wed Mar 11 14:21:42 2020 [26484][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Wed Mar 11 14:21:56 2020 [26503][1][FATAL] Email address save error
+Wed Mar 11 18:57:42 2020 [4016][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Mar 11 18:57:42 2020 [4016][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.226.9], username[admin]
+Wed Mar 11 18:57:50 2020 [4016][-none-][FATAL] SECURITY: User authentication for Admin failed
+Wed Mar 11 18:57:50 2020 [4016][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.226.9], username[Admin]
+Wed Mar 11 19:25:49 2020 [5483][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Wed Mar 11 21:26:44 2020 [10688][1][FATAL] IP Address mismatch: SESSION IP: 191.156.63.166 CLIENT IP: 191.156.54.224
+Wed Mar 11 21:27:00 2020 [10688][1][FATAL] IP Address mismatch: SESSION IP: 191.156.54.224 CLIENT IP: 191.156.63.166
+Thu Mar 12 18:37:25 2020 [23930][1][FATAL] Undefined index: module
+Thu Mar 12 18:37:25 2020 [23930][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Thu Mar 12 18:37:25 2020 [23930][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Thu Mar 12 18:37:36 2020 [23933][1][FATAL] Email address save error
+Thu Mar 12 18:37:59 2020 [23933][1][FATAL] Email address save error
+Thu Mar 12 19:07:04 2020 [25208][1][FATAL] Undefined index: module
+Thu Mar 12 19:07:04 2020 [25208][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Thu Mar 12 19:07:04 2020 [25208][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Thu Mar 12 19:07:23 2020 [25264][1][FATAL] Email address save error
+Thu Mar 12 19:15:36 2020 [25738][1][FATAL] Email address save error
+Fri Mar 13 19:55:36 2020 [12869][-none-][FATAL] SECURITY: User authentication for Admin failed
+Fri Mar 13 19:55:36 2020 [12869][-none-][FATAL] FAILED LOGIN:attempts[1], ip[201.244.226.32], username[Admin]
+Fri Mar 13 19:56:10 2020 [12878][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Mar 13 19:56:10 2020 [12878][-none-][FATAL] FAILED LOGIN:attempts[1], ip[201.244.226.32], username[admin]
+Fri Mar 13 22:01:58 2020 [16864][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Mar 13 22:01:59 2020 [16864][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.118.85.155], username[admin]
+Fri Mar 13 22:02:03 2020 [16864][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Mar 13 22:02:03 2020 [16864][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.118.85.155], username[admin]
+Fri Mar 13 22:02:05 2020 [16864][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Mar 13 22:02:05 2020 [16864][-none-][FATAL] FAILED LOGIN:attempts[2], ip[186.118.85.155], username[admin]
+Fri Mar 13 22:02:14 2020 [16864][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Mar 13 22:02:14 2020 [16864][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.118.85.155], username[admin]
+Sun Mar 15 16:42:42 2020 [1371][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Mar 15 16:42:42 2020 [1371][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.185.235], username[admin]
+Sun Mar 15 16:42:50 2020 [1371][-none-][FATAL] SECURITY: User authentication for admi failed
+Sun Mar 15 16:42:50 2020 [1371][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.185.235], username[admi]
+Sun Mar 15 16:44:38 2020 [1424][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Mar 15 16:44:38 2020 [1424][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.185.235], username[admin]
+Sun Mar 15 16:44:40 2020 [1424][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Mar 15 16:44:40 2020 [1424][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.185.235], username[admin]
+Sun Mar 15 16:44:52 2020 [1424][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Mar 15 16:44:52 2020 [1424][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.185.235], username[admin]
+Sun Mar 15 19:07:27 2020 [5751][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+Sun Mar 15 23:09:47 2020 [13608][1][FATAL] Undefined index: module
+Sun Mar 15 23:09:47 2020 [13608][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Sun Mar 15 23:09:47 2020 [13608][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Sun Mar 15 23:10:03 2020 [13611][1][FATAL] Email address save error
+Sun Mar 15 23:10:35 2020 [13619][1][FATAL] Email address save error
+Tue Mar 17 10:01:07 2020 [14316][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Mar 17 10:01:07 2020 [14316][-none-][FATAL] FAILED LOGIN:attempts[1], ip[184.148.52.61], username[admin]
+Tue Mar 17 10:47:46 2020 [15887][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Mar 17 10:47:46 2020 [15887][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.179.46], username[admin]
+Sun Mar 29 18:27:58 2020 [14477][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Sun Mar 29 18:27:58 2020 [14477][1][FATAL] UndeployedMetaDataImplementation->getFileName(): view type custom is not recognized
+Wed Apr  1 20:13:34 2020 [7353][-none-][FATAL] Mysqli_query failed.
+Wed Apr  1 20:13:34 2020 [7353][-none-][FATAL] Retrieving record by id users:1 found  Query Failed: SELECT users.* FROM users  WHERE users.id = '1' AND users.deleted=0 LIMIT 0,1: MySQL error 1146: Table 'qadtuxhgtk.users' doesn't exist
+Wed Apr  1 20:14:34 2020 [7368][-none-][FATAL] Mysqli_query failed.
+Wed Apr  1 20:14:34 2020 [7368][-none-][FATAL] Retrieving record by id users:1 found  Query Failed: SELECT users.* FROM users  WHERE users.id = '1' AND users.deleted=0 LIMIT 0,1: MySQL error 1146: Table 'qadtuxhgtk.users' doesn't exist
+Wed Apr  1 20:35:24 2020 [8154][1][FATAL] A user (1) attempted to use an invalid file for the logo - upload://tmp_logo_company_upload/company_logo_%281%29.png
+Thu Apr  2 11:55:24 2020 [6499][1][FATAL] SugarPHPMailer encountered an error: Invalid address:  (to): 
+Thu Apr  2 11:55:24 2020 [6499][1][FATAL] SugarPHPMailer encountered an error: Invalid address:  (to): 
+Thu Apr  2 19:43:33 2020 [23047][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+Fri Apr  3 17:47:47 2020 [6107][-none-][FATAL] SECURITY: User authentication for Admin failed
+Fri Apr  3 17:47:47 2020 [6107][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.169.169.74], username[Admin]
+Fri Apr  3 20:35:01 2020 [14473][1][FATAL] Mysqli_query failed.
+Fri Apr  3 20:35:01 2020 [14473][1][FATAL] Retrieving record by id config:1 found  Query Failed: SELECT config.* FROM config  WHERE config.id = '1' AND config.deleted=0 LIMIT 0,1: MySQL error 1054: Unknown column 'config.id' in 'where clause'
+Fri Apr  3 20:35:01 2020 [14473][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Fri Apr  3 20:35:01 2020 [14473][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Fri Apr  3 20:35:01 2020 [14473][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(353): sugar_die('Database failur...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(328): DBManager->registerError('Retrieving reco...', 'Retrieving reco...', true)
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqliManager.php(179): DBManager->checkError('Retrieving reco...', true)
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqlManager.php(285): MysqliManager->query('SELECT config.*...', true, 'Retrieving reco...')
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/data/SugarBean.php(4531): MysqlManager->limitQuery('SELECT config.*...', 0, 1, true, 'Retrieving reco...')
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(318): SugarBean->retrieve('1')
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(463): SugarController->loadBean()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#8 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#9 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#10 {main}
+Fri Apr  3 20:37:58 2020 [14559][1][FATAL] Mysqli_query failed.
+Fri Apr  3 20:37:58 2020 [14559][1][FATAL] Retrieving record by id config:1 found  Query Failed: SELECT config.* FROM config  WHERE config.id = '1' AND config.deleted=0 LIMIT 0,1: MySQL error 1054: Unknown column 'config.id' in 'where clause'
+Fri Apr  3 20:37:58 2020 [14559][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Fri Apr  3 20:37:58 2020 [14559][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Fri Apr  3 20:37:58 2020 [14559][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(353): sugar_die('Database failur...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(328): DBManager->registerError('Retrieving reco...', 'Retrieving reco...', true)
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqliManager.php(179): DBManager->checkError('Retrieving reco...', true)
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqlManager.php(285): MysqliManager->query('SELECT config.*...', true, 'Retrieving reco...')
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/data/SugarBean.php(4531): MysqlManager->limitQuery('SELECT config.*...', 0, 1, true, 'Retrieving reco...')
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(318): SugarBean->retrieve('1')
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(463): SugarController->loadBean()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#8 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#9 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#10 {main}
+Sat Apr  4 15:20:51 2020 [20050][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Apr  4 15:20:51 2020 [20050][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.226.250], username[admin]
+Sun Apr  5 12:58:13 2020 [3080][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Apr  5 12:58:13 2020 [3080][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.156.50.233], username[admin]
+Sun Apr  5 12:59:02 2020 [3101][-none-][FATAL] SECURITY: User authentication for hadmin failed
+Sun Apr  5 12:59:02 2020 [3101][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.156.50.233], username[hadmin]
+Sun Apr  5 12:59:19 2020 [3101][1][FATAL] IP Address mismatch: SESSION IP: 191.156.54.198 CLIENT IP: 191.156.57.253
+Sat Apr 11 16:37:38 2020 [13582][1][FATAL] IP Address mismatch: SESSION IP: 191.95.141.239 CLIENT IP: 191.95.136.59
+Sat Apr 11 19:02:37 2020 [19000][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Sat Apr 11 19:21:12 2020 [19714][1][FATAL] IP Address mismatch: SESSION IP: 191.95.141.226 CLIENT IP: 191.95.136.59
+Sun Apr 19 18:20:29 2020 [29305][1][FATAL]  POST: Array
+(
+)
+
+Sun Apr 19 18:22:01 2020 [29378][1][FATAL]  POST: Array
+(
+    [google_signin_clientid] => 565826344611-hma4ke0iuug4tr27bu019h0ggfepquv7.apps.googleusercontent.com
+    [google_signin_clientsecret] => aHTYy3wG6iXPSvNCO67LNCUR
+    [save] =>   Save  
+)
+
+Sun Apr 19 18:24:03 2020 [29533][-none-][FATAL]  USER ID: 
+Sun Apr 19 18:25:20 2020 [29589][1][FATAL] User update error: Temp User is not retrieved at ID 17690810-a2e6-508c-f49f-5e9cdd189878, boolean given
+Sun Apr 19 18:25:20 2020 [29589][1][FATAL] Email address save error
+Sun Apr 19 18:26:08 2020 [29630][-none-][FATAL]  USER ID: 17690810-a2e6-508c-f49f-5e9cdd189878
+Sun Apr 19 18:27:03 2020 [29683][-none-][FATAL]  USER ID: 17690810-a2e6-508c-f49f-5e9cdd189878
+Sun Apr 19 18:30:18 2020 [29820][-none-][FATAL]  USER ID: 17690810-a2e6-508c-f49f-5e9cdd189878
+Sun Apr 19 18:32:24 2020 [29892][17690810-a2e6-508c-f49f-5e9cdd189878][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Sun Apr 19 18:32:24 2020 [29892][17690810-a2e6-508c-f49f-5e9cdd189878][FATAL] Exception in Controller: Unauthorized access to administration.
+Sun Apr 19 18:32:24 2020 [29892][17690810-a2e6-508c-f49f-5e9cdd189878][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Administration/index.php(53): sugar_die('Unauthorized ac...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/views/view.classic.php(72): SugarView->includeClassicFile('modules/Adminis...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ViewClassic->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Sun Apr 19 18:33:30 2020 [29922][1][FATAL] Email address save error
+Sun Apr 19 18:33:30 2020 [29922][1][FATAL] error loading relationship project_resource
+Sun Apr 19 18:33:30 2020 [29922][1][FATAL] error loading relationship am_projecttemplates_resources
+Sun Apr 19 18:34:15 2020 [29981][-none-][FATAL]  USER ID: 
+Sun Apr 19 19:37:58 2020 [32735][1][FATAL] Mysqli_query failed.
+Sun Apr 19 19:37:58 2020 [32735][1][FATAL]  Query Failed: INSERT INTO gluu_table (gluu_action, gluu_value) VALUES ('gluu_send_user_check','0'): MySQL error 1062: Duplicate entry 'gluu_send_user_check' for key 'gluu_action'
+Sun Apr 19 19:37:58 2020 [32735][1][FATAL] Mysqli_query failed.
+Sun Apr 19 19:37:58 2020 [32735][1][FATAL]  Query Failed: INSERT INTO gluu_table (gluu_action, gluu_value) VALUES ('gluu_oxd_id',''): MySQL error 1062: Duplicate entry 'gluu_oxd_id' for key 'gluu_action'
+Sun Apr 19 19:37:58 2020 [32735][1][FATAL] Mysqli_query failed.
+Sun Apr 19 19:37:58 2020 [32735][1][FATAL]  Query Failed: INSERT INTO gluu_table (gluu_action, gluu_value) VALUES ('gluu_user_role','0'): MySQL error 1062: Duplicate entry 'gluu_user_role' for key 'gluu_action'
+Sun Apr 19 19:38:26 2020 [32765][1][FATAL] Mysqli_query failed.
+Sun Apr 19 19:38:26 2020 [32765][1][FATAL]  Query Failed: INSERT INTO gluu_table (gluu_action, gluu_value) VALUES ('gluu_send_user_check','0'): MySQL error 1062: Duplicate entry 'gluu_send_user_check' for key 'gluu_action'
+Sun Apr 19 19:38:26 2020 [32765][1][FATAL] Mysqli_query failed.
+Sun Apr 19 19:38:26 2020 [32765][1][FATAL]  Query Failed: INSERT INTO gluu_table (gluu_action, gluu_value) VALUES ('gluu_oxd_id',''): MySQL error 1062: Duplicate entry 'gluu_oxd_id' for key 'gluu_action'
+Sun Apr 19 19:38:26 2020 [32765][1][FATAL] Mysqli_query failed.
+Sun Apr 19 19:38:26 2020 [32765][1][FATAL]  Query Failed: INSERT INTO gluu_table (gluu_action, gluu_value) VALUES ('gluu_user_role','0'): MySQL error 1062: Duplicate entry 'gluu_user_role' for key 'gluu_action'
+Sun Apr 19 21:11:00 2020 [3979][1][FATAL] Email address save error
+Mon Apr 20 10:06:30 2020 [29794][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Mon Apr 20 10:06:30 2020 [29794][1][FATAL] Exception in Controller: There is no action by that name: vi_reminderandnotificationlistview
+Mon Apr 20 10:06:30 2020 [29794][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(555): sugar_die('There is no act...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1094): SugarController->no_action()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleActionMaps()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#6 {main}
+Tue Apr 21 19:51:42 2020 [25864][-none-][FATAL]  USER ID: 
+Tue Apr 21 19:57:07 2020 [26123][1][FATAL] User update error: Temp User is not retrieved at ID 824cf346-0abf-9328-38b3-5e9f96dd1eff, boolean given
+Tue Apr 21 19:57:07 2020 [26123][1][FATAL] Email address save error
+Tue Apr 21 19:58:00 2020 [26143][-none-][FATAL]  USER ID: 824cf346-0abf-9328-38b3-5e9f96dd1eff
+Tue Apr 21 19:59:39 2020 [26170][1][FATAL] Email address save error
+Tue Apr 21 20:00:56 2020 [26209][1][FATAL] Email address save error
+Thu Apr 23 16:38:51 2020 [8581][1][FATAL] Mysqli_query failed.
+Thu Apr 23 16:38:51 2020 [8581][1][FATAL]  Query Failed: SELECT id, name FROM  WHERE deleted=0 ORDER BY TRIM(name) ASC: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE deleted=0 ORDER BY TRIM(name) ASC' at line 1
+Thu Apr 23 16:38:51 2020 [8581][1][FATAL] Mysqli_query failed.
+Thu Apr 23 16:38:51 2020 [8581][1][FATAL]  Query Failed: SELECT id, name FROM  WHERE deleted=0 ORDER BY TRIM(name) ASC: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE deleted=0 ORDER BY TRIM(name) ASC' at line 1
+Thu Apr 23 16:38:51 2020 [8581][1][FATAL] Mysqli_query failed.
+Thu Apr 23 16:38:51 2020 [8581][1][FATAL]  Query Failed: SELECT id, name FROM  WHERE deleted=0 ORDER BY TRIM(name) ASC: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE deleted=0 ORDER BY TRIM(name) ASC' at line 1
+Thu Apr 23 16:51:17 2020 [8960][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Thu Apr 23 16:51:17 2020 [8960][1][FATAL] Exception in Controller: Invalid Package
+Thu Apr 23 16:51:17 2020 [8960][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Administration/UpgradeWizard.php(128): sugar_die('Invalid Package')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/views/view.classic.php(72): SugarView->includeClassicFile('modules/Adminis...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ViewClassic->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Thu Apr 23 16:51:33 2020 [8960][1][FATAL] ZIP Error(0): Status(9)
+Sat Apr 25 12:08:52 2020 [28793][1][FATAL] Email address save error
+Sun Apr 26 10:23:54 2020 [10250][-none-][FATAL]  USER ID: 824cf346-0abf-9328-38b3-5e9f96dd1eff
+Mon Apr 27 11:03:07 2020 [21720][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Mon Apr 27 11:03:07 2020 [21720][1][FATAL] Exception in Controller: 
+Mon Apr 27 11:03:07 2020 [21720][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Campaigns/QueueCampaign.php(106): sugar_die('')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Campaigns/views/view.classic.php(78): SugarView->includeClassicFile('modules/Campaig...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): CampaignsViewClassic->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Mon Apr 27 18:48:35 2020 [2928][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Mon Apr 27 22:46:28 2020 [6186][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Mon Apr 27 22:46:28 2020 [6186][1][SECURITY] User Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Mon Apr 27 22:46:59 2020 [6196][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Mon Apr 27 22:46:59 2020 [6196][1][SECURITY] User Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Mon Apr 27 22:48:31 2020 [6295][1][SECURITY] Email Error: Not authorized to use Outbound Account "system"
+Mon Apr 27 22:48:31 2020 [6295][1][SECURITY] User Administrator attempted to send an email using incorrect email account settings in which they do not have access to.
+Tue Apr 28 15:06:24 2020 [15699][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Apr 28 15:06:24 2020 [15699][-none-][FATAL] FAILED LOGIN:attempts[1], ip[190.96.240.65], username[admin]
+Tue Apr 28 15:07:09 2020 [15708][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Apr 28 15:07:09 2020 [15708][-none-][FATAL] FAILED LOGIN:attempts[1], ip[190.96.240.65], username[admin]
+Tue Apr 28 15:07:15 2020 [15708][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Apr 28 15:07:15 2020 [15708][-none-][FATAL] FAILED LOGIN:attempts[1], ip[190.96.240.65], username[admin]
+Tue Apr 28 15:26:40 2020 [16427][1][FATAL] Email address save error
+Tue Apr 28 15:44:22 2020 [17210][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Apr 28 15:44:22 2020 [17210][1][FATAL] Exception in Controller: Subpanel was not defined
+Tue Apr 28 15:44:22 2020 [17210][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/SubPanel/SubPanelViewer.php(61): sugar_die('Subpanel was no...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1087): require_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleActionMaps()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#6 {main}
+Thu Apr 30 23:05:07 2020 [22194][-none-][FATAL]  USER ID: 
+Thu Apr 30 23:05:08 2020 [22194][-none-][FATAL] Email address save error
+Thu Apr 30 23:05:30 2020 [22194][d91846fe-4cc3-1e24-05ca-5eab9f717b69][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Thu Apr 30 23:05:30 2020 [22194][d91846fe-4cc3-1e24-05ca-5eab9f717b69][FATAL] Exception in Controller: Unauthorized access to administration.
+Thu Apr 30 23:05:30 2020 [22194][d91846fe-4cc3-1e24-05ca-5eab9f717b69][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Configurator/views/view.edit.php(71): sugar_die('Unauthorized ac...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(224): ConfiguratorViewEdit->preDisplay()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Configurator/views/view.edit.php(100): SugarView->process()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): ConfiguratorViewEdit->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#7 {main}
+Thu Apr 30 23:05:41 2020 [22194][d91846fe-4cc3-1e24-05ca-5eab9f717b69][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Thu Apr 30 23:05:41 2020 [22194][d91846fe-4cc3-1e24-05ca-5eab9f717b69][FATAL] Exception in Controller: Unauthorized access to administration.
+Thu Apr 30 23:05:41 2020 [22194][d91846fe-4cc3-1e24-05ca-5eab9f717b69][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Configurator/views/view.edit.php(71): sugar_die('Unauthorized ac...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(224): ConfiguratorViewEdit->preDisplay()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Configurator/views/view.edit.php(100): SugarView->process()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): ConfiguratorViewEdit->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#7 {main}
+Thu Apr 30 23:10:31 2020 [22399][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Apr 30 23:10:31 2020 [22399][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.136.24], username[admin]
+Thu Apr 30 23:11:21 2020 [22448][-none-][FATAL]  USER ID: 
+Thu Apr 30 23:11:21 2020 [22448][-none-][FATAL] Email address save error
+Fri May  1 08:46:17 2020 [9373][-none-][FATAL]  USER ID: 
+Fri May  1 08:46:17 2020 [9373][-none-][FATAL] Email address save error
+Sat May  2 15:11:25 2020 [5085][1][FATAL] Email address save error
+Sun May  3 10:21:45 2020 [9216][-none-][FATAL]  USER ID: 
+Sun May  3 10:21:45 2020 [9216][-none-][FATAL] Email address save error
+Mon May  4 09:12:16 2020 [23922][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon May  4 09:12:16 2020 [23922][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.136.154], username[admin]
+Mon May  4 13:05:35 2020 [31220][-none-][FATAL]  USER ID: d488fb65-25f8-87bc-367b-5eaee1abe585
+Mon May  4 19:50:29 2020 [13254][1][FATAL] IP Address mismatch: SESSION IP: 191.95.136.67 CLIENT IP: 191.156.52.183
+Sat May  9 19:50:18 2020 [25038][-none-][FATAL]  USER ID: d488fb65-25f8-87bc-367b-5eaee1abe585
+Sat May  9 20:02:13 2020 [25566][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Sat May  9 20:02:13 2020 [25566][1][FATAL] Exception in Controller: Subpanel was not defined
+Sat May  9 20:02:13 2020 [25566][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/SubPanel/SubPanelViewer.php(61): sugar_die('Subpanel was no...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1087): require_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleActionMaps()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#6 {main}
+Sat May  9 21:35:38 2020 [29129][-none-][FATAL]  USER ID: d488fb65-25f8-87bc-367b-5eaee1abe585
+Mon May 11 14:31:42 2020 [12173][-none-][FATAL]  USER ID: d488fb65-25f8-87bc-367b-5eaee1abe585
+Mon May 11 14:32:44 2020 [12248][-none-][FATAL]  USER ID: 
+Mon May 11 14:32:44 2020 [12248][-none-][FATAL] Email address save error
+Mon May 11 14:34:21 2020 [12301][1][FATAL] Email address save error
+Mon May 11 14:34:21 2020 [12301][1][FATAL] error loading relationship project_resource
+Mon May 11 14:34:21 2020 [12301][1][FATAL] error loading relationship am_projecttemplates_resources
+Sun May 17 17:25:05 2020 [18315][-none-][FATAL]  USER ID: d488fb65-25f8-87bc-367b-5eaee1abe585
+Wed May 20 14:49:13 2020 [10291][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed May 20 14:49:14 2020 [10291][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.240], username[admin]
+Fri May 22 14:56:55 2020 [24760][-none-][FATAL]  USER ID: 
+Fri May 22 14:56:55 2020 [24760][-none-][FATAL] Email address save error
+Fri May 22 15:08:57 2020 [25211][-none-][FATAL]  USER ID: 
+Fri May 22 15:08:57 2020 [25211][-none-][FATAL] Email address save error
+Fri May 22 15:09:07 2020 [25211][-none-][FATAL]  USER ID: 813b65b6-465a-40e3-4d8e-5ec831e9dcaf
+Fri May 22 15:09:32 2020 [25230][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 15:09:32 2020 [25230][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 15:15:22 2020 [25411][-none-][FATAL]  USER ID: 
+Fri May 22 15:15:22 2020 [25411][-none-][FATAL] Email address save error
+Fri May 22 15:21:34 2020 [25618][-none-][FATAL]  USER ID: 
+Fri May 22 15:21:34 2020 [25618][-none-][FATAL] Email address save error
+Fri May 22 15:22:30 2020 [25679][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 15:22:30 2020 [25679][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 15:22:48 2020 [25692][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 15:22:48 2020 [25692][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 15:23:19 2020 [25730][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 15:23:19 2020 [25730][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 15:29:29 2020 [25976][-none-][FATAL]  USER ID: 
+Fri May 22 15:29:29 2020 [25976][-none-][FATAL] Email address save error
+Fri May 22 15:32:16 2020 [26089][-none-][FATAL]  USER ID: 59d796a3-9001-9249-6fa1-5ec834048ff7
+Fri May 22 17:51:54 2020 [31438][-none-][FATAL]  USER ID: 
+Fri May 22 17:51:54 2020 [31438][-none-][FATAL] Email address save error
+Fri May 22 17:52:20 2020 [31483][-none-][FATAL]  USER ID: 6299d8ba-a2d5-8e56-da1b-5ec85783e4a1
+Fri May 22 17:59:34 2020 [31849][-none-][FATAL]  USER ID: 6299d8ba-a2d5-8e56-da1b-5ec85783e4a1
+Fri May 22 18:00:12 2020 [31861][-none-][FATAL]  USER ID: 6299d8ba-a2d5-8e56-da1b-5ec85783e4a1
+Fri May 22 18:05:04 2020 [32061][-none-][FATAL]  USER ID: 
+Fri May 22 18:05:04 2020 [32061][-none-][FATAL] Email address save error
+Fri May 22 18:05:36 2020 [32061][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 18:05:36 2020 [32061][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 18:14:28 2020 [32416][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 18:14:28 2020 [32416][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 18:16:06 2020 [32451][-none-][FATAL]  USER ID: 
+Fri May 22 18:16:06 2020 [32451][-none-][FATAL] Email address save error
+Fri May 22 19:47:47 2020 [3285][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 19:47:47 2020 [3285][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 19:49:51 2020 [3329][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 19:49:51 2020 [3329][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 19:54:20 2020 [3492][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 19:54:20 2020 [3492][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 19:57:04 2020 [3565][-none-][FATAL] SECURITY: User authentication for cnino1 failed
+Fri May 22 19:57:04 2020 [3565][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.143.101], username[cnino1]
+Fri May 22 22:06:06 2020 [7834][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Fri May 22 22:06:06 2020 [7834][1][FATAL] Exception in Controller: Subpanel was not defined
+Fri May 22 22:06:06 2020 [7834][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/SubPanel/SubPanelViewer.php(61): sugar_die('Subpanel was no...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1087): require_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleActionMaps()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#6 {main}
+Fri May 22 22:10:39 2020 [8272][1][FATAL] User update error: Temp User is not retrieved at ID 92b4edc4-d84c-ea8f-2acd-5ec894b6edcf, boolean given
+Fri May 22 22:10:39 2020 [8272][1][FATAL] Email address save error
+Fri May 22 22:12:24 2020 [8357][1][FATAL] Email address save error
+Fri May 22 22:14:00 2020 [8404][1][FATAL] Email address save error
+Fri May 22 22:14:00 2020 [8404][1][FATAL] error loading relationship project_resource
+Fri May 22 22:14:00 2020 [8404][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 15:11:22 2020 [7561][1][FATAL] Email address save error
+Sat May 23 15:16:48 2020 [7761][1][FATAL] Email address save error
+Sat May 23 16:12:36 2020 [10173][1][FATAL] Email address save error
+Sat May 23 17:44:18 2020 [13119][1][FATAL] Email address save error
+Sat May 23 17:51:55 2020 [13342][1][FATAL] Email address save error
+Sat May 23 17:52:30 2020 [13403][1][FATAL] Email address save error
+Sat May 23 17:56:42 2020 [13582][1][FATAL] Email address save error
+Sat May 23 18:01:56 2020 [13728][1][FATAL] Email address save error
+Sat May 23 18:45:00 2020 [15309][1][FATAL] error loading relationship project_resource
+Sat May 23 18:45:00 2020 [15309][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 18:45:00 2020 [15309][1][FATAL] User update error: Temp User is not retrieved at ID 3ee993a2-b914-76b6-7b4c-5ec9abdf1152, boolean given
+Sat May 23 18:45:00 2020 [15309][1][FATAL] Email address save error
+Sat May 23 18:45:00 2020 [15309][1][FATAL] Email address save error
+Sat May 23 18:54:02 2020 [15701][1][FATAL] Email address save error
+Sat May 23 18:54:02 2020 [15701][1][FATAL] error loading relationship project_resource
+Sat May 23 18:54:02 2020 [15701][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 18:54:02 2020 [15701][1][FATAL] Email address save error
+Sat May 23 18:54:02 2020 [15701][1][FATAL] Email address save error
+Sat May 23 18:54:47 2020 [15752][1][FATAL] error loading relationship project_resource
+Sat May 23 18:54:47 2020 [15752][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 18:54:47 2020 [15752][1][FATAL] User update error: Temp User is not retrieved at ID 7206ece4-018b-8d16-42c0-5ec9b7b38ad7, boolean given
+Sat May 23 18:54:47 2020 [15752][1][FATAL] Email address save error
+Sat May 23 18:54:47 2020 [15752][1][FATAL] Email address save error
+Sat May 23 19:46:20 2020 [17821][1][FATAL] error loading relationship project_resource
+Sat May 23 19:46:20 2020 [17821][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 19:46:21 2020 [17821][1][FATAL] User update error: Temp User is not retrieved at ID 3d8877dc-96dc-b6ee-21ed-5ec9b7390626, boolean given
+Sat May 23 19:46:21 2020 [17821][1][FATAL] Email address save error
+Sat May 23 19:47:22 2020 [17878][1][FATAL] Email address save error
+Sat May 23 19:47:22 2020 [17878][1][FATAL] error loading relationship project_resource
+Sat May 23 19:47:22 2020 [17878][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 19:47:22 2020 [17878][1][FATAL] Email address save error
+Sat May 23 19:51:04 2020 [18042][1][FATAL] Email address save error
+Sat May 23 19:51:04 2020 [18042][1][FATAL] error loading relationship project_resource
+Sat May 23 19:51:04 2020 [18042][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 19:51:04 2020 [18042][1][FATAL] Email address save error
+Sat May 23 19:51:52 2020 [18066][1][FATAL] Email address save error
+Sat May 23 19:51:52 2020 [18066][1][FATAL] error loading relationship project_resource
+Sat May 23 19:51:52 2020 [18066][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 19:51:52 2020 [18066][1][FATAL] Email address save error
+Sat May 23 20:28:57 2020 [19350][1][FATAL] Mysqli_query failed.
+Sat May 23 20:28:57 2020 [19350][1][FATAL] Retrieving record WHERE email1 = 'cnino1@udi.edu.co' AND deleted=0: Query Failed: SELECT users.* FROM users  WHERE email1 = 'cnino1@udi.edu.co' AND deleted=0 LIMIT 0,1: MySQL error 1054: Unknown column 'email1' in 'where clause'
+Sat May 23 20:28:57 2020 [19350][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Sat May 23 20:28:57 2020 [19350][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Sat May 23 20:28:57 2020 [19350][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(353): sugar_die('Database failur...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(328): DBManager->registerError('Retrieving reco...', 'Retrieving reco...', true)
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqliManager.php(179): DBManager->checkError('Retrieving reco...', true)
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqlManager.php(285): MysqliManager->query('SELECT users.* ...', true, 'Retrieving reco...')
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/data/SugarBean.php(5757): MysqlManager->limitQuery('SELECT users.* ...', 0, 1, true, 'Retrieving reco...')
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Contacts/ContactFormBase.php(600): SugarBean->retrieve_by_string_fields(Array)
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Contacts/Save.php(48): ContactFormBase->handleSave('', true, false)
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#8 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/views/view.classic.php(72): SugarView->includeClassicFile('modules/Contact...')
+#9 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ViewClassic->display()
+#10 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#11 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#12 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#13 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#14 {main}
+Sat May 23 20:44:03 2020 [20001][1][FATAL] Email address save error
+Sat May 23 21:41:50 2020 [22472][1][FATAL] Email address save error
+Sat May 23 21:41:50 2020 [22472][1][FATAL] Mysqli_query failed.
+Sat May 23 21:41:50 2020 [22472][1][FATAL] Retrieving record WHERE user_name_c = 'javierm206' AND deleted=0: Query Failed: SELECT users.* FROM users  WHERE user_name_c = 'javierm206' AND deleted=0 LIMIT 0,1: MySQL error 1054: Unknown column 'user_name_c' in 'where clause'
+Sat May 23 21:41:50 2020 [22472][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Sat May 23 21:41:50 2020 [22472][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Sat May 23 21:41:50 2020 [22472][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(353): sugar_die('Database failur...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(328): DBManager->registerError('Retrieving reco...', 'Retrieving reco...', true)
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqliManager.php(179): DBManager->checkError('Retrieving reco...', true)
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqlManager.php(285): MysqliManager->query('SELECT users.* ...', true, 'Retrieving reco...')
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/data/SugarBean.php(5757): MysqlManager->limitQuery('SELECT users.* ...', 0, 1, true, 'Retrieving reco...')
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Contacts/ContactFormBase.php(611): SugarBean->retrieve_by_string_fields(Array)
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Contacts/Save.php(48): ContactFormBase->handleSave('', true, false)
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#8 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/views/view.classic.php(72): SugarView->includeClassicFile('modules/Contact...')
+#9 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ViewClassic->display()
+#10 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#11 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#12 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#13 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#14 {main}
+Sat May 23 21:43:59 2020 [22622][1][FATAL] Email address save error
+Sat May 23 21:43:59 2020 [22622][1][FATAL] error loading relationship project_resource
+Sat May 23 21:43:59 2020 [22622][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 21:43:59 2020 [22622][1][FATAL] Email address save error
+Sat May 23 21:47:53 2020 [22794][1][FATAL] Email address save error
+Sat May 23 21:47:53 2020 [22794][1][FATAL] Email address save error
+Sat May 23 21:47:53 2020 [22794][1][FATAL] error loading relationship project_resource
+Sat May 23 21:47:53 2020 [22794][1][FATAL] error loading relationship am_projecttemplates_resources
+Sat May 23 21:47:53 2020 [22794][1][FATAL] Email address save error
+Sun May 24 10:26:53 2020 [14365][1][FATAL] Email address save error
+Sun May 24 10:51:13 2020 [15101][1][FATAL] Email address save error
+Sun May 24 14:42:44 2020 [22754][1][FATAL] Email address save error
+Sun May 24 14:47:29 2020 [22959][1][FATAL] Email address save error
+Sun May 24 15:20:42 2020 [24991][1][FATAL] Email address save error
+Sun May 24 15:37:04 2020 [25989][1][FATAL] User update error: Temp User is not retrieved at ID 831ebba5-796c-8874-dfc8-5e70f09b5470, boolean given
+Sun May 24 15:37:04 2020 [25989][1][FATAL] Email address save error
+Sun May 24 15:56:20 2020 [26773][1][FATAL] Email address save error
+Sun May 24 16:04:43 2020 [27168][1][FATAL] Email address save error
+Sun May 24 16:10:45 2020 [27421][1][FATAL] Email address save error
+Sun May 24 16:20:01 2020 [27809][1][FATAL] Email address save error
+Sun May 24 16:27:15 2020 [28094][1][FATAL] Email address save error
+Sun May 24 16:29:01 2020 [28202][1][FATAL] Email address save error
+Sun May 24 16:34:08 2020 [28407][1][FATAL] Email address save error
+Sun May 24 16:36:51 2020 [28520][1][FATAL] Email address save error
+Sun May 24 16:42:11 2020 [28820][1][FATAL] Email address save error
+Sun May 24 16:45:26 2020 [28981][1][FATAL] Email address save error
+Sun May 24 16:47:56 2020 [29090][1][FATAL] User update error: Temp User is not retrieved at ID 831ebba5-796c-8874-dfc8-5e70f09b5470, boolean given
+Sun May 24 16:47:56 2020 [29090][1][FATAL] Email address save error
+Sun May 24 17:07:53 2020 [29700][1][FATAL] IP Address mismatch: SESSION IP: 191.156.61.76 CLIENT IP: 191.156.58.216
+Sun May 24 17:08:29 2020 [29700][1][FATAL] IP Address mismatch: SESSION IP: 191.156.58.216 CLIENT IP: 191.156.52.41
+Sun May 24 18:03:55 2020 [31639][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun May 24 18:03:55 2020 [31639][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.239.217], username[admin]
+Wed May 27 08:33:24 2020 [29946][1][FATAL] Email address save error
+Wed May 27 18:10:41 2020 [23153][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Wed May 27 18:10:41 2020 [23153][1][FATAL] Exception in Controller: There is no action by that name: AttachDocuments
+Wed May 27 18:10:41 2020 [23153][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(555): sugar_die('There is no act...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1094): SugarController->no_action()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleActionMaps()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#6 {main}
+Fri May 29 13:04:57 2020 [11588][-none-][FATAL]  USER ID: b80bb38f-410a-e6d5-56c3-5ec85a22c019
+Fri May 29 13:05:52 2020 [11627][1][FATAL] Email address save error
+Tue Jun  2 10:10:17 2020 [15838][1][FATAL] SugarOutfitters_API::call(): HTTP Request failed: Array
+(
+    [url] => https://store.suitecrm.com/api/v1/key/validate?key=68b5f3685843c79eac3c9709d1cc0a79&public_key=b8a4052bdda77baa984d89e9f30ce0b5%2C321a79aa92dafc824e9a8f7950856923&user_count=3&group_user_count=0&admin_user_count=1&sugar_edition=CE&db_type=mysql&developerMode=false&host_name=phpstack-249647-1171917.cloudwaysapps.com&package_scan=false&sugar_version=6.5.25&site_url=http%3A%2F%2Fphpstack-249647-1171917.cloudwaysapps.com&addon_version=1.2&metadata=
+    [content_type] => application/json
+    [http_code] => 400
+    [header_size] => 204
+    [request_size] => 621
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.699198
+    [namelookup_time] => 0.509355
+    [connect_time] => 0.54018
+    [pretransfer_time] => 0.611227
+    [size_upload] => 0
+    [size_download] => 108
+    [speed_download] => 154
+    [speed_upload] => 0
+    [download_content_length] => 108
+    [upload_content_length] => -1
+    [starttransfer_time] => 0.699186
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 104.130.124.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 207.246.78.190
+    [local_port] => 32834
+)
+
+Tue Jun  2 10:10:17 2020 [15838][1][FATAL] AntOutfittersLicense::doValidate() failed: Array
+(
+    [success] => 
+    [result] => Free Trial has expired and payment failed. Update payment information on SuiteCRM Store to continue usage.
+)
+
+Tue Jun  2 10:26:01 2020 [16295][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Jun  2 10:26:01 2020 [16295][1][FATAL] Exception in Controller: Subpanel was not defined
+Tue Jun  2 10:26:01 2020 [16295][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/SubPanel/SubPanelViewer.php(61): sugar_die('Subpanel was no...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1087): require_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleActionMaps()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#6 {main}
+Tue Jun  2 10:41:18 2020 [16747][-none-][FATAL]  USER ID: 
+Tue Jun  2 10:41:18 2020 [16747][-none-][FATAL] Email address save error
+Tue Jun  2 10:53:56 2020 [17072][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Jun  2 10:53:56 2020 [17072][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception in Controller: DateTimeZone::__construct(): Unknown or bad timezone ()
+Tue Jun  2 10:53:56 2020 [17072][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailMarketing/EmailMarketing.php(109): DateTimeZone->__construct('')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailTemplates/EmailTemplateData.php(66): EmailMarketing->save()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1020): require_once('/home/249647.cl...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleEntryPoint()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#7 {main}
+Tue Jun  2 10:55:25 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Jun  2 10:55:25 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception in Controller: DateTimeZone::__construct(): Unknown or bad timezone ()
+Tue Jun  2 10:55:25 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailMarketing/EmailMarketing.php(109): DateTimeZone->__construct('')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailTemplates/EmailTemplateData.php(66): EmailMarketing->save()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1020): require_once('/home/249647.cl...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleEntryPoint()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#7 {main}
+Tue Jun  2 10:55:28 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Jun  2 10:55:28 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception in Controller: DateTimeZone::__construct(): Unknown or bad timezone ()
+Tue Jun  2 10:55:28 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailMarketing/EmailMarketing.php(109): DateTimeZone->__construct('')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailTemplates/EmailTemplateData.php(66): EmailMarketing->save()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1020): require_once('/home/249647.cl...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleEntryPoint()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#7 {main}
+Tue Jun  2 10:55:38 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Jun  2 10:55:38 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception in Controller: DateTimeZone::__construct(): Unknown or bad timezone ()
+Tue Jun  2 10:55:38 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailMarketing/EmailMarketing.php(109): DateTimeZone->__construct('')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailTemplates/EmailTemplateData.php(66): EmailMarketing->save()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1020): require_once('/home/249647.cl...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleEntryPoint()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#7 {main}
+Tue Jun  2 10:55:45 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Jun  2 10:55:45 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception in Controller: DateTimeZone::__construct(): Unknown or bad timezone ()
+Tue Jun  2 10:55:45 2020 [17113][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailMarketing/EmailMarketing.php(109): DateTimeZone->__construct('')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/EmailTemplates/EmailTemplateData.php(66): EmailMarketing->save()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(1020): require_once('/home/249647.cl...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(468): SugarController->handleEntryPoint()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(373): SugarController->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#7 {main}
+Tue Jun  2 11:03:00 2020 [17297][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Tue Jun  2 11:03:00 2020 [17297][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] Exception in Controller: Unauthorized access to administration.
+Tue Jun  2 11:03:00 2020 [17297][16fd6f3b-24e4-7c2a-4dcc-5ed673ae1efe][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Administration/index.php(53): sugar_die('Unauthorized ac...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/views/view.classic.php(72): SugarView->includeClassicFile('modules/Adminis...')
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ViewClassic->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Thu Jun  4 21:13:51 2020 [19521][1][FATAL] SugarOutfitters_API::call(): HTTP Request failed: Array
+(
+    [url] => https://store.suitecrm.com/api/v1/key/validate?key=2c0f001d39280743f27683f3cdad6ffc&public_key=9a9ed8438d112d90c79b57025b1f10cc&user_count=4&group_user_count=0&admin_user_count=1&sugar_edition=CE&db_type=mysql&developerMode=false&host_name=phpstack-249647-1171917.cloudwaysapps.com&package_scan=false&sugar_version=6.5.25&site_url=http%3A%2F%2Fphpstack-249647-1171917.cloudwaysapps.com&addon_version=No+Versions+Found
+    [content_type] => application/json
+    [http_code] => 400
+    [header_size] => 204
+    [request_size] => 590
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.430863
+    [namelookup_time] => 0.252933
+    [connect_time] => 0.283286
+    [pretransfer_time] => 0.352763
+    [size_upload] => 0
+    [size_download] => 108
+    [speed_download] => 250
+    [speed_upload] => 0
+    [download_content_length] => 108
+    [upload_content_length] => -1
+    [starttransfer_time] => 0.430851
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 104.130.124.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 207.246.78.190
+    [local_port] => 44567
+)
+
+Thu Jun  4 21:13:51 2020 [19521][1][FATAL] EsignatureLicense::doValidate() failed: Array
+(
+    [success] => 
+    [result] => Free Trial has expired and payment failed. Update payment information on SuiteCRM Store to continue usage.
+)
+
+Thu Jun  4 21:14:50 2020 [19564][1][FATAL] Email address save error
+Sat Jun  6 10:51:00 2020 [3055][1][FATAL] Mysqli_query failed.
+Sat Jun  6 10:51:00 2020 [3055][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE aos_line_item_groups   add COLUMN vat double  DEFAULT '5.0' NULL: MySQL error 1060: Duplicate column name 'vat'
+Sat Jun  6 10:51:00 2020 [3055][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Sat Jun  6 10:51:00 2020 [3055][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Sat Jun  6 10:51:00 2020 [3055][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(353): sugar_die('Database failur...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(328): DBManager->registerError('Executing repai...', 'Executing repai...', true)
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqliManager.php(179): DBManager->checkError('Executing repai...', true)
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Administration/repairDatabase.php(95): MysqliManager->query('ALTER TABLE aos...', true, 'Executing repai...')
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/views/view.classic.php(72): SugarView->includeClassicFile('modules/Adminis...')
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ViewClassic->display()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#8 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#9 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#10 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#11 {main}
+Sat Jun  6 10:52:43 2020 [3180][1][FATAL] Mysqli_query failed.
+Sat Jun  6 10:52:43 2020 [3180][1][FATAL] Executing repair query:  Query Failed: ALTER TABLE aos_line_item_groups   add COLUMN vat double  DEFAULT '5.0' NULL: MySQL error 1060: Duplicate column name 'vat'
+Sat Jun  6 10:52:43 2020 [3180][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Sat Jun  6 10:52:43 2020 [3180][1][FATAL] Exception in Controller: Database failure. Please refer to suitecrm.log for details.
+Sat Jun  6 10:52:43 2020 [3180][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(353): sugar_die('Database failur...')
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/DBManager.php(328): DBManager->registerError('Executing repai...', 'Executing repai...', true)
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/database/MysqliManager.php(179): DBManager->checkError('Executing repai...', true)
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/Administration/repairDatabase.php(95): MysqliManager->query('ALTER TABLE aos...', true, 'Executing repai...')
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(834): include_once('/home/249647.cl...')
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/views/view.classic.php(72): SugarView->includeClassicFile('modules/Adminis...')
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ViewClassic->display()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#8 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#9 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#10 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#11 {main}
+Mon Jun  8 18:39:53 2020 [24173][-none-][FATAL]  USER ID: b80bb38f-410a-e6d5-56c3-5ec85a22c019
+Mon Jun  8 18:42:54 2020 [24274][1][FATAL] Mysqli_query failed.
+Mon Jun  8 18:42:54 2020 [24274][1][FATAL]  Query Failed: ALTER TABLE document_revisions add COLUMN is_document_public bool DEFAULT '0' NULL, add COLUMN synced_to_google bool DEFAULT '0' NULL: MySQL error 1060: Duplicate column name 'is_document_public'
+Mon Jun  8 18:43:11 2020 [24297][1][FATAL] SugarOutfitters_API::call(): HTTP Request failed: Array
+(
+    [url] => https://store.suitecrm.com/api/v1/key/validate?key=68b5f3685843c79eac3c9709d1cc0a79&public_key=b8a4052bdda77baa984d89e9f30ce0b5%2C321a79aa92dafc824e9a8f7950856923&user_count=4&group_user_count=0&admin_user_count=1&sugar_edition=CE&db_type=mysql&developerMode=false&host_name=phpstack-249647-1171917.cloudwaysapps.com&package_scan=false&sugar_version=6.5.25&site_url=http%3A%2F%2Fphpstack-249647-1171917.cloudwaysapps.com&addon_version=1.2&metadata=
+    [content_type] => application/json
+    [http_code] => 400
+    [header_size] => 204
+    [request_size] => 621
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.453052
+    [namelookup_time] => 0.252992
+    [connect_time] => 0.283895
+    [pretransfer_time] => 0.354147
+    [size_upload] => 0
+    [size_download] => 108
+    [speed_download] => 238
+    [speed_upload] => 0
+    [download_content_length] => 108
+    [upload_content_length] => -1
+    [starttransfer_time] => 0.453044
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 104.130.124.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 207.246.78.190
+    [local_port] => 46008
+)
+
+Mon Jun  8 18:43:11 2020 [24297][1][FATAL] AntOutfittersLicense::doValidate() failed: Array
+(
+    [success] => 
+    [result] => Free Trial has expired and payment failed. Update payment information on SuiteCRM Store to continue usage.
+)
+
+Mon Jun  8 18:52:32 2020 [24528][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Mon Jun  8 18:52:32 2020 [24528][1][FATAL] Exception in Controller: refresh token must be passed in or set as part of setAccessToken
+Mon Jun  8 18:52:32 2020 [24528][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(361): Google_Client->fetchAccessTokenWithRefreshToken(NULL)
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(312): AntGoogleDriveHelper->getGoogleClient()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/views/view.settings.php(46): AntGoogleDriveHelper->getEmailFromConnectedAccount()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ant_GoogleDriveViewSettings->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Mon Jun  8 18:52:58 2020 [24586][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Mon Jun  8 18:52:58 2020 [24586][1][FATAL] Exception in Controller: refresh token must be passed in or set as part of setAccessToken
+Mon Jun  8 18:52:58 2020 [24586][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(361): Google_Client->fetchAccessTokenWithRefreshToken(NULL)
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(312): AntGoogleDriveHelper->getGoogleClient()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/views/view.settings.php(46): AntGoogleDriveHelper->getEmailFromConnectedAccount()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ant_GoogleDriveViewSettings->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Mon Jun  8 18:53:37 2020 [24637][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Mon Jun  8 18:53:37 2020 [24637][1][FATAL] Exception in Controller: refresh token must be passed in or set as part of setAccessToken
+Mon Jun  8 18:53:37 2020 [24637][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(361): Google_Client->fetchAccessTokenWithRefreshToken(NULL)
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(312): AntGoogleDriveHelper->getGoogleClient()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/views/view.settings.php(46): AntGoogleDriveHelper->getEmailFromConnectedAccount()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ant_GoogleDriveViewSettings->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Mon Jun  8 18:55:47 2020 [24766][-none-][FATAL]  USER ID: b80bb38f-410a-e6d5-56c3-5ec85a22c019
+Mon Jun  8 18:57:44 2020 [24832][1][FATAL] Exception handling in /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php:400
+Mon Jun  8 18:57:44 2020 [24832][1][FATAL] Exception in Controller: refresh token must be passed in or set as part of setAccessToken
+Mon Jun  8 18:57:44 2020 [24832][1][FATAL] backtrace:
+#0 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(361): Google_Client->fetchAccessTokenWithRefreshToken(NULL)
+#1 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/helper.php(312): AntGoogleDriveHelper->getGoogleClient()
+#2 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/modules/ant_GoogleDrive/views/view.settings.php(46): AntGoogleDriveHelper->getEmailFromConnectedAccount()
+#3 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/View/SugarView.php(226): ant_GoogleDriveViewSettings->display()
+#4 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(435): SugarView->process()
+#5 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/Controller/SugarController.php(375): SugarController->processView()
+#6 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/include/MVC/SugarApplication.php(113): SugarController->execute()
+#7 /home/249647.cloudwaysapps.com/qadtuxhgtk/public_html/index.php(52): SugarApplication->execute()
+#8 {main}
+Mon Jun 15 10:04:54 2020 [27573][1][FATAL] IP Address mismatch: SESSION IP: 191.156.63.191 CLIENT IP: 191.156.52.41
+Mon Jun 15 10:05:23 2020 [27590][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon Jun 15 10:05:23 2020 [27590][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.156.52.41], username[admin]
+Mon Jun 15 10:05:38 2020 [27590][1][FATAL] IP Address mismatch: SESSION IP: 191.156.49.77 CLIENT IP: 191.156.60.11
+Sun Jun 21 17:41:42 2020 [21892][1][FATAL] Email address save error
+Sat Jun 27 08:59:14 2020 [29609][-none-][FATAL] SugarOutfitters_API::call(): HTTP Request failed: Array
+(
+    [url] => https://store.suitecrm.com/api/v1/key/validate?key=2c0f001d39280743f27683f3cdad6ffc&public_key=9a9ed8438d112d90c79b57025b1f10cc&user_count=4&group_user_count=0&admin_user_count=1&sugar_edition=CE&db_type=mysql&developerMode=false&host_name=phpstack-249647-1171917.cloudwaysapps.com&package_scan=false&sugar_version=6.5.25&site_url=http%3A%2F%2Fphpstack-249647-1171917.cloudwaysapps.com&addon_version=No+Versions+Found
+    [content_type] => application/json
+    [http_code] => 400
+    [header_size] => 204
+    [request_size] => 590
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.74265
+    [namelookup_time] => 0.509291
+    [connect_time] => 0.541303
+    [pretransfer_time] => 0.614127
+    [size_upload] => 0
+    [size_download] => 108
+    [speed_download] => 145
+    [speed_upload] => 0
+    [download_content_length] => 108
+    [upload_content_length] => -1
+    [starttransfer_time] => 0.742636
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 104.130.124.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 207.246.78.190
+    [local_port] => 33198
+)
+
+Sat Jun 27 08:59:14 2020 [29609][-none-][FATAL] EsignatureLicense::doValidate() failed: Array
+(
+    [success] => 
+    [result] => Free Trial has expired and payment failed. Update payment information on SuiteCRM Store to continue usage.
+)
+
+Tue Jul 14 16:50:59 2020 [13315][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Jul 14 16:50:59 2020 [13315][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.160.81], username[admin]
+Tue Jul 14 16:51:06 2020 [13315][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Jul 14 16:51:06 2020 [13315][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.236.160.81], username[admin]
+Thu Aug  6 19:46:25 2020 [20941][-none-][FATAL]  USER ID: 
+Thu Aug  6 19:46:26 2020 [20941][-none-][FATAL] Email address save error
+Thu Aug  6 19:47:03 2020 [20955][-none-][FATAL]  USER ID: b80bb38f-410a-e6d5-56c3-5ec85a22c019
+Thu Aug  6 19:59:54 2020 [21535][-none-][FATAL]  USER ID: b80bb38f-410a-e6d5-56c3-5ec85a22c019
+Thu Aug  6 22:54:41 2020 [29422][-none-][FATAL]  USER ID: b80bb38f-410a-e6d5-56c3-5ec85a22c019
+Fri Aug  7 09:36:19 2020 [21311][-none-][FATAL]  USER ID: b80bb38f-410a-e6d5-56c3-5ec85a22c019
+Fri Aug  7 10:16:04 2020 [22960][-none-][FATAL] SugarOutfitters_API::call(): HTTP Request failed: Array
+(
+    [url] => https://store.suitecrm.com/api/v1/key/validate?key=2c0f001d39280743f27683f3cdad6ffc&public_key=9a9ed8438d112d90c79b57025b1f10cc&user_count=4&group_user_count=0&admin_user_count=1&sugar_edition=CE&db_type=mysql&developerMode=false&host_name=phpstack-249647-1171917.cloudwaysapps.com&package_scan=false&sugar_version=6.5.25&site_url=http%3A%2F%2Fphpstack-249647-1171917.cloudwaysapps.com&addon_version=No+Versions+Found
+    [content_type] => application/json
+    [http_code] => 400
+    [header_size] => 203
+    [request_size] => 590
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.477394
+    [namelookup_time] => 0.253177
+    [connect_time] => 0.284016
+    [pretransfer_time] => 0.376856
+    [size_upload] => 0
+    [size_download] => 94
+    [speed_download] => 196
+    [speed_upload] => 0
+    [download_content_length] => 94
+    [upload_content_length] => -1
+    [starttransfer_time] => 0.477372
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 104.130.124.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 207.246.78.190
+    [local_port] => 46688
+    [http_version] => 2
+    [protocol] => 2
+    [ssl_verifyresult] => 0
+    [scheme] => HTTPS
+)
+
+Fri Aug  7 10:16:04 2020 [22960][-none-][FATAL] EsignatureLicense::doValidate() failed: Array
+(
+    [success] => 
+    [result] => Free Trial was cancelled. Please purchase a new license on SuiteCRM Store to continue usage.
+)
+
+Fri Aug  7 12:29:03 2020 [27134][1][FATAL] Mysqli_query failed.
+Fri Aug  7 12:29:03 2020 [27134][1][FATAL]  Query Failed:  SELECT  in_12_inventory.id , in_12_inventory.assigned_user_id , in_12_inventory.name , in_12_inventory.billing_address_city , in_12_inventory.phone_office  , jt0.user_name assigned_user_name , jt0.created_by assigned_user_name_owner  , 'Users' assigned_user_name_mod, in_12_inventory.created_by  FROM in_12_inventory   LEFT JOIN  users jt0 ON in_12_inventory.assigned_user_id=jt0.id AND jt0.deleted=0
+
+ AND jt0.deleted=0 where in_12_inventory.deleted=0 ORDER BY in_12_inventory.date_entered DESC LIMIT 0,21: MySQL error 1146: Table 'qadtuxhgtk.in_12_inventory' doesn't exist
+Fri Aug  7 16:55:29 2020 [4043][1][FATAL] error loading relationship aos_products_purchases
+Fri Aug  7 19:03:44 2020 [8291][1][FATAL] error loading relationship aos_products_purchases
+Fri Aug 21 16:19:36 2020 [6017][-none-][FATAL] SugarOutfitters_API::call(): HTTP Request failed: Array
+(
+    [url] => https://store.suitecrm.com/api/v1/key/validate?key=2c0f001d39280743f27683f3cdad6ffc&public_key=9a9ed8438d112d90c79b57025b1f10cc&user_count=4&group_user_count=0&admin_user_count=1&sugar_edition=CE&db_type=mysql&developerMode=false&host_name=phpstack-249647-1171917.cloudwaysapps.com&package_scan=false&sugar_version=6.5.25&site_url=http%3A%2F%2Fphpstack-249647-1171917.cloudwaysapps.com&addon_version=No+Versions+Found
+    [content_type] => application/json
+    [http_code] => 400
+    [header_size] => 203
+    [request_size] => 590
+    [filetime] => -1
+    [ssl_verify_result] => 0
+    [redirect_count] => 0
+    [total_time] => 0.729856
+    [namelookup_time] => 0.509318
+    [connect_time] => 0.543647
+    [pretransfer_time] => 0.627126
+    [size_upload] => 0
+    [size_download] => 94
+    [speed_download] => 128
+    [speed_upload] => 0
+    [download_content_length] => 94
+    [upload_content_length] => -1
+    [starttransfer_time] => 0.72983
+    [redirect_time] => 0
+    [redirect_url] => 
+    [primary_ip] => 104.130.124.191
+    [certinfo] => Array
+        (
+        )
+
+    [primary_port] => 443
+    [local_ip] => 207.246.78.190
+    [local_port] => 56518
+    [http_version] => 2
+    [protocol] => 2
+    [ssl_verifyresult] => 0
+    [scheme] => HTTPS
+)
+
+Fri Aug 21 16:19:36 2020 [6017][-none-][FATAL] EsignatureLicense::doValidate() failed: Array
+(
+    [success] => 
+    [result] => Free Trial was cancelled. Please purchase a new license on SuiteCRM Store to continue usage.
+)
+
+Fri Aug 21 18:55:25 2020 [12023][-none-][FATAL]  USER ID: 8fea7455-5cff-ddab-0ff7-5ec85dbb87f8
+Fri Aug 21 18:58:15 2020 [12185][-none-][FATAL] SECURITY: User authentication for Admin failed
+Fri Aug 21 18:58:15 2020 [12185][-none-][FATAL] FAILED LOGIN:attempts[1], ip[190.159.223.252], username[Admin]
+Fri Aug 28 19:19:48 2020 [9231][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Aug 28 19:19:48 2020 [9231][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.84.88.82], username[admin]
+Sat Aug 29 09:18:38 2020 [14569][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Aug 29 09:18:39 2020 [14569][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.58.244.95], username[admin]
+Sat Aug 29 15:01:29 2020 [24100][1][FATAL] Mysqli_query failed.
+Sat Aug 29 15:01:29 2020 [24100][1][FATAL]  Query Failed: SELECT * FROM In_12_Inventory WHERE aos_products_id_c = '151d13f9-0821-bc38-f1d4-5f2f569bb094';: MySQL error 1146: Table 'qadtuxhgtk.In_12_Inventory' doesn't exist
+Sat Aug 29 19:48:43 2020 [690][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Aug 29 19:48:43 2020 [690][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.134.51], username[admin]
+Sat Aug 29 19:48:49 2020 [690][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat Aug 29 19:48:49 2020 [690][-none-][FATAL] FAILED LOGIN:attempts[1], ip[191.95.134.51], username[admin]

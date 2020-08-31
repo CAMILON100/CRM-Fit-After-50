@@ -1,0 +1,11 @@
+Fri Feb 21 16:55:35 2020 [31534][-none-][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Fri Feb 21 16:55:35 2020 [31534][-none-][FATAL] Email address save error
+Fri Feb 21 17:03:07 2020 [31779][1][FATAL] Undefined index: module
+Fri Feb 21 17:03:07 2020 [31779][1][FATAL] Invalid or missing SubPanelDefinition property: subpanel_name
+Fri Feb 21 17:03:07 2020 [31779][1][FATAL] Failed to load original or custom subpanel data for eapm in 
+Sun Feb 23 22:37:42 2020 [23355][-none-][FATAL] SECURITY: User authentication for admin} failed
+Sun Feb 23 22:37:42 2020 [23355][-none-][FATAL] FAILED LOGIN:attempts[1], ip[181.131.85.88], username[admin}]
+Wed Feb 26 11:17:58 2020 [17519][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Feb 26 11:17:58 2020 [17519][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.118.74.19], username[admin]
+Wed Feb 26 11:18:02 2020 [17519][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Feb 26 11:18:02 2020 [17519][-none-][FATAL] FAILED LOGIN:attempts[1], ip[186.118.74.19], username[admin]
