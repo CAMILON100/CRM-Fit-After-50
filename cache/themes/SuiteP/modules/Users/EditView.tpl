@@ -583,7 +583,7 @@ value='{$value}' title=''      >
     });
 {/literal}
 </script>
-<script type="text/javascript" src='include/SugarFields/Fields/Image/SugarFieldFile.js?v=HW-TH189jwbycUzvoGU84Q'></script>
+<script type="text/javascript" src='include/SugarFields/Fields/Image/SugarFieldFile.js?v=H00u_zZQxUsbGW3cM5HUNw'></script>
 {if !empty($fields.photo.value) }
 {assign var=showRemove value=true}
 {else}

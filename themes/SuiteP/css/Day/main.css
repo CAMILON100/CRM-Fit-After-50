@@ -3036,4 +3036,48 @@ input[type=submit] {
   font-weight: 400;
 }
 
+#EditView div.action_buttons .button {
+  height: 42px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 1px;
+  background-color: #3699ff;
+  color: #fff;
+  cursor: pointer;
+  border-color: #3699ff;
+  border-bottom: #63aad4;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.actionsContainer .action_buttons {
+  display: flex;
+  align-items: center;
+}
+
+.suitepicon-action-create-group-user:before {
+  content: "";
+}
+
+.suitepicon-action-security-groups:before {
+  content: "";
+}
+
+.suitepicon-action-role-management:before {
+  content: "";
+}
+
+.suitepicon-action-security-suite-settings:before {
+  content: "";
+}
+
+.suitepicon-action-create-group-user:before {
+  content: "";
+}
+
+.suitepicon-action-create-security-group:before {
+  content: "";
+}
+
 /*# sourceMappingURL=main.css.map */
