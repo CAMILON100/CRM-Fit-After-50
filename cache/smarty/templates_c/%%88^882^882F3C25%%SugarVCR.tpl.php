@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 13:45:56
+<?php /* Smarty version 2.6.31, created on 2020-09-04 17:14:46
          compiled from themes/SuiteP/include/EditView/SugarVCR.tpl */ ?>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>

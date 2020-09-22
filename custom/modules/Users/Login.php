@@ -171,7 +171,7 @@ echo $AAA = <<<EOQ
 			var googleSignInClientId = "$google_signin_clientid";
 			if(googleSignInClientId != "") {
 				$("head").append("<meta name=\"google-signin-client_id\" content=\""+googleSignInClientId+"\" />");
-				$("form").find("input[type=\"submit\"]").after("<div>OR</div><div class=\"g-signin2\" data-width=\"370\" data-height=\"40\" data-longtitle=\"true\" data-onsuccess=\"onSignIn\"></div>");
+				$("form").find("input[type=\"submit\"]").after("<div>OR</div><div class=\"g-signin2 m-t-10\" data-width=\"370\" data-height=\"40\" data-longtitle=\"true\" data-onsuccess=\"onSignIn\"></div>");
 			}
 		});
 		function onSignIn(googleUser) {

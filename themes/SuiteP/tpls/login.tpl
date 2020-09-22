@@ -92,18 +92,28 @@
             {/if}
             <br>
             <div class="input-group">
-                <input type="text" class="form-control"
+                <div class="d-flex algin-items-center">
+                     <div class="d-flex align-items-center" style="padding:5px 15px;height:50px;background: #ececec;border-radius:5px 0 0 5px;">
+                        <i class="mdi mdi-account-circle" style="font-size: 26px;color: #777777;"></i>
+                    </div>
+                    <input type="text" class="form-control"
                        placeholder="{sugar_translate module="Users" label="LBL_USER_NAME"}" required autofocus
                        tabindex="1" id="user_name" name="user_name" value='{$LOGIN_USER_NAME}' autocomplete="off">
+                </div>
             </div>
             <br>
-            <div class="input-group">
-                <input type="password" class="form-control"
+            <div class="input-group m-b-10 m-t-10">
+            <div class="d-flex align-items-center">
+                     <div class="d-flex align-items-center" style="padding:5px 15px;height:50px;background: #ececec;border-radius:5px 0 0 5px;">
+                        <i class="mdi mdi-visibility-off" style="font-size: 26px;color: #777777;"></i>
+                    </div>
+                    <input type="password" class="form-control"
                        placeholder="{sugar_translate module="Users" label="LBL_PASSWORD"}" tabindex="2"
                        id="username_password" name="username_password" value='{$LOGIN_PASSWORD}' autocomplete="off">
+             </div>
             </div>
             <br>
-            <input id="bigbutton" class="btn btn-lg btn-primary btn-block" type="submit"
+            <input id="bigbutton" class="btn btn-lg btn-primary btn-block full-size-btn-reverse " style="margin-bottom: 10px;" type="submit"
                    title="{sugar_translate module="Users" label="LBL_LOGIN_BUTTON_TITLE"}" tabindex="3" name="Login"
                    value="{sugar_translate module="Users" label="LBL_LOGIN_BUTTON_LABEL"}">
             <div id="forgotpasslink" style="cursor: pointer; display:{$DISPLAY_FORGOT_PASSWORD_FEATURE};"

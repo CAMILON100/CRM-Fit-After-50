@@ -48,12 +48,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
     <!-- Bootstrap -->
+    {assign var=unique_id value=15|mt_rand:2000}
     <link href="themes/SuiteP/css/normalize.css" rel="stylesheet" type="text/css"/>
     <link href='themes/SuiteP/css/fonts.css' rel='stylesheet' type='text/css'>
     <link href="themes/SuiteP/css/grid.css" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="themes/SuiteP/css/footable.core.css" rel="stylesheet" type="text/css"/>
+    <link href="https://tympanus.net/Tutorials/ThumbnailGridExpandingPreview/css/component.css" rel="stylesheet" type="text/css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet" type="text/css" />
-    <title>{$APP.LBL_BROWSER_TITLE}</title>
+    
+    <title>{$APP.LBL_BROWSER_TITLE} </title>
+    
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -78,10 +83,17 @@
     </script>
     {/literal}
     {$SUGAR_CSS}
+   
     <link rel="stylesheet" type="text/css" href="themes/SuiteP/css/colourSelector.php">
+
+     
     <script type="text/javascript" src='{sugar_getjspath file="themes/SuiteP/js/jscolor.js"}'></script>
     <script type="text/javascript" src='{sugar_getjspath file="cache/include/javascript/sugar_field_grp.js"}'></script>
     <script type="text/javascript" src='{sugar_getjspath file="include/javascript/mozaik/vendor/tinymce/tinymce/tinymce.min.js"}'></script>
-<script type="text/javascript">{literal}window.$crisp=[];window.CRISP_WEBSITE_ID="f65d4a88-5cee-4c26-9d09-f7430b186900";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();{/literal}</script>
+    <script type="text/javascript">{literal}window.$crisp=[];window.CRISP_WEBSITE_ID="f65d4a88-5cee-4c26-9d09-f7430b186900";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();{/literal}</script>
+    <link href="themes/SuiteP/css/Day/main.css?v='{$unique_id}'" rel="stylesheet" type="text/css"/>
+     <link href="themes/SuiteP/css/Day/material/css/material-icons.css" rel="stylesheet" type="text/css"/>
+  
+
     
 </head>

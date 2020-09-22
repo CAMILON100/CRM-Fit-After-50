@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 15:45:04
+<?php /* Smarty version 2.6.31, created on 2020-09-04 17:47:38
          compiled from modules/AOP_Case_Updates/tpl/caseUpdateForm.tpl */ ?>
 <button id="addFileButton" class="button primary" type="button"><?php echo $this->_tpl_vars['MOD']['LBL_ADD_CASE_FILE']; ?>
 </button>

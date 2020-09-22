@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 15:12:13
+<?php /* Smarty version 2.6.31, created on 2020-09-02 04:01:46
          compiled from themes/SuiteP/include/MySugar/tpls/MySugar2.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getscript', 'themes/SuiteP/include/MySugar/tpls/MySugar2.tpl', 63, false),array('function', 'counter', 'themes/SuiteP/include/MySugar/tpls/MySugar2.tpl', 73, false),array('function', 'sugar_getjspath', 'themes/SuiteP/include/MySugar/tpls/MySugar2.tpl', 164, false),)), $this); ?>
@@ -38,7 +38,7 @@ _div">
                 <?php $_from = $this->_tpl_vars['columns']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }if (count($_from)):
     foreach ($_from as $this->_tpl_vars['colNum'] => $this->_tpl_vars['data']):
 ?>
-                    <td class="dashletcontainer" valign='top'>
+                    <td class="dashletcontainer " valign='top'>
                         <ul class='Bullet' id='col_<?php echo $this->_tpl_vars['activePage']; ?>
 _<?php echo $this->_tpl_vars['colNum']; ?>
 '>
@@ -54,7 +54,7 @@ b'
                                 <li class='Bullet' id='dashlet_<?php echo $this->_tpl_vars['id']; ?>
 '>
                                     <div id='dashlet_entire_<?php echo $this->_tpl_vars['id']; ?>
-' class='dashletPanel'>
+' class='dashletPanel dashsing'>
                                         <?php echo $this->_tpl_vars['dashlet']['script']; ?>
 
                                         <?php echo $this->_tpl_vars['dashlet']['displayHeader']; ?>

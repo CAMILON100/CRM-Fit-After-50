@@ -72,7 +72,7 @@
             <tr>
                 {counter assign=hiddenCounter start=0 print=false}
                 {foreach from=$columns key=colNum item=data}
-                    <td class="dashletcontainer" valign='top'>
+                    <td class="dashletcontainer " valign='top'>
                         <ul class='Bullet' id='col_{$activePage}_{$colNum}'>
                             <li id='page_{$activePage}_hidden{$hiddenCounter}b'
                                 style='height: 5px; margin-top:12px;' class='Bullet'>
@@ -80,7 +80,7 @@
                             </li>
                             {foreach from=$data.dashlets key=id item=dashlet}
                                 <li class='Bullet' id='dashlet_{$id}'>
-                                    <div id='dashlet_entire_{$id}' class='dashletPanel'>
+                                    <div id='dashlet_entire_{$id}' class='dashletPanel dashsing'>
                                         {$dashlet.script}
                                         {$dashlet.displayHeader}
                                         {$dashlet.display}

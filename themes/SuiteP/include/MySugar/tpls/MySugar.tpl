@@ -99,7 +99,7 @@
 
         {if !$lock_homepage}
             <li id="tab-actions" class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#">{$APP.LBL_LINK_ACTIONS}<span class="suitepicon suitepicon-action-caret"></span></a>
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#">{$APP.LBL_LINK_ACTIONS} <div class="svg-size"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg></div></a>
                 {include file='themes/SuiteP/include/MySugar/tpls/actions_menu.tpl'}
             </li>
         {/if}
@@ -112,7 +112,14 @@
             {else}
             <div class="tab-pane fade" id='tab_content_{$tabNum}'>
             {/if}
-                <img src="themes/SuiteP/images/loading.gif" width="48" height="48" align="baseline" border="0" alt="">
+                <div class="content-loading">
+                    <!--<img src="themes/SuiteP/images/loading.gif" width="48" height="48" align="baseline" border="0" alt="">-->
+                    <div class="multi-ripple">
+                        <div></div>
+                        <div></div>
+                    </div>
+                </div>
+                
             </div>
         {/foreach}
     </div>

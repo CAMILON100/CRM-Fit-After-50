@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 15:12:44
+<?php /* Smarty version 2.6.31, created on 2020-09-01 21:50:20
          compiled from include/Dashlets/DashletGenericAutoRefreshDynamic.tpl */ ?>
 <input type="hidden" id="<?php echo $this->_tpl_vars['dashletId']; ?>
 _offset" name="<?php echo $this->_tpl_vars['dashletId']; ?>

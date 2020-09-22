@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 15:11:57
+<?php /* Smarty version 2.6.31, created on 2020-09-13 18:51:55
          compiled from themes/SuiteP/tpls/login.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_translate', 'themes/SuiteP/tpls/login.tpl', 42, false),)), $this); ?>
@@ -71,22 +71,32 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_trans
             <?php endif; ?>
             <br>
             <div class="input-group">
-                <input type="text" class="form-control"
+                <div class="d-flex algin-items-center">
+                     <div class="d-flex align-items-center" style="padding:5px 15px;height:50px;background: #ececec;border-radius:5px 0 0 5px;">
+                        <i class="mdi mdi-account-circle" style="font-size: 26px;color: #777777;"></i>
+                    </div>
+                    <input type="text" class="form-control"
                        placeholder="<?php echo smarty_function_sugar_translate(array('module' => 'Users','label' => 'LBL_USER_NAME'), $this);?>
 " required autofocus
                        tabindex="1" id="user_name" name="user_name" value='<?php echo $this->_tpl_vars['LOGIN_USER_NAME']; ?>
 ' autocomplete="off">
+                </div>
             </div>
             <br>
-            <div class="input-group">
-                <input type="password" class="form-control"
+            <div class="input-group m-b-10 m-t-10">
+            <div class="d-flex align-items-center">
+                     <div class="d-flex align-items-center" style="padding:5px 15px;height:50px;background: #ececec;border-radius:5px 0 0 5px;">
+                        <i class="mdi mdi-visibility-off" style="font-size: 26px;color: #777777;"></i>
+                    </div>
+                    <input type="password" class="form-control"
                        placeholder="<?php echo smarty_function_sugar_translate(array('module' => 'Users','label' => 'LBL_PASSWORD'), $this);?>
 " tabindex="2"
                        id="username_password" name="username_password" value='<?php echo $this->_tpl_vars['LOGIN_PASSWORD']; ?>
 ' autocomplete="off">
+             </div>
             </div>
             <br>
-            <input id="bigbutton" class="btn btn-lg btn-primary btn-block" type="submit"
+            <input id="bigbutton" class="btn btn-lg btn-primary btn-block full-size-btn-reverse " style="margin-bottom: 10px;" type="submit"
                    title="<?php echo smarty_function_sugar_translate(array('module' => 'Users','label' => 'LBL_LOGIN_BUTTON_TITLE'), $this);?>
 " tabindex="3" name="Login"
                    value="<?php echo smarty_function_sugar_translate(array('module' => 'Users','label' => 'LBL_LOGIN_BUTTON_LABEL'), $this);?>

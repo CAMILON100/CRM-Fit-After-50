@@ -26,7 +26,7 @@
     <div id="dashletsDialog" style="display:none;">
         <div class="hd" id="dashletsDialogHeader"><a href="javascript:void(0)"
                                                      onClick="javascript:SUGAR.mySugar.closeDashletsDialog();">
-                <div class="container-close">&nbsp;</div>
+                <div class="container-close svg-size"><svg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'><title>ionicons-v5-l</title><line x1='368' y1='368' x2='144' y2='144' style='fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px'/><line x1='368' y1='144' x2='144' y2='368' style='fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px'/></svg></div>
             </a>{$lblAdd}
         </div>
         <div class="bd" id="dashletsList">

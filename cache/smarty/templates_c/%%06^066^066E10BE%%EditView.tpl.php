@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 16:12:27
+<?php /* Smarty version 2.6.31, created on 2020-09-04 17:14:47
          compiled from cache/themes/SuiteP/modules/Contacts/EditView.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('modifier', 'escape', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 52, false),array('modifier', 'strip_semicolon', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 107, false),array('modifier', 'lookup', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 147, false),array('modifier', 'count', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 249, false),array('function', 'sugar_include', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 68, false),array('function', 'sugar_translate', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 89, false),array('function', 'counter', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 114, false),array('function', 'html_options', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 122, false),array('function', 'sugar_getimagepath', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 150, false),array('function', 'sugar_getjspath', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 655, false),array('block', 'minify', 'cache/themes/SuiteP/modules/Contacts/EditView.tpl', 105, false),)), $this); ?>
@@ -1227,7 +1227,7 @@ title='' tabindex="0"
 '; ?>
 
 </script>
-<script type="text/javascript" src='include/SugarFields/Fields/Image/SugarFieldFile.js?v=_0oPfo8msjfwYwQ_vXx_OA'></script>
+<script type="text/javascript" src='include/SugarFields/Fields/Image/SugarFieldFile.js?v=4LwecGz5hXoElB9nasxijw'></script>
 <?php if (! empty ( $this->_tpl_vars['fields']['photo']['value'] )): ?>
 <?php $this->assign('showRemove', true); ?>
 <?php else: ?>

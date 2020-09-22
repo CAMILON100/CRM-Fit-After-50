@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 13:45:52
+<?php /* Smarty version 2.6.31, created on 2020-09-05 20:42:44
          compiled from themes/SuiteP/include/ListView/ListViewGeneric.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_include', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 41, false),array('function', 'sugar_getjspath', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 43, false),array('function', 'counter', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 133, false),array('function', 'sugar_translate', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 170, false),array('function', 'sugar_ajax_url', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 267, false),array('function', 'sugar_evalcolumn_old', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 271, false),array('function', 'sugar_field', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 273, false),array('function', 'sugar_getimage', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 280, false),array('modifier', 'replace', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 88, false),array('modifier', 'default', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 158, false),array('modifier', 'lower', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 160, false),array('modifier', 'upper', 'themes/SuiteP/include/ListView/ListViewGeneric.tpl', 163, false),)), $this); ?>
@@ -109,7 +109,7 @@ unset($_smarty_tpl_vars);
 <?php echo $this->_tpl_vars['multiSelectData']; ?>
 
 <?php if ($this->_tpl_vars['hideTable'] == false): ?>
-	<div class="list-view-rounded-corners">
+	<div class="list-view-rounded-corners table-ui">
 		<table cellpadding='0' cellspacing='0' border='0' class='list view table-responsive'>
 	<thead>
 		<?php $this->assign('link_select_id', 'selectLinkTop'); ?>

@@ -57,7 +57,7 @@
         <input type='hidden' id='hideTabsDef' name='hideTabsDef' value=''>
         <input type='hidden' id='dashletType' name='dashletType' value=''/>
 
-        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="edit view">
+        <table cellpadding="0" cellspacing="0" border="0" width="100%" class="edit view ">
             <tr>
                 <td scope='row' colspan='4' align='left'>
                     <h2>{$strings.general}</h2>

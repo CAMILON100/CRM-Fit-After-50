@@ -1,7 +1,7 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 15:12:11
+<?php /* Smarty version 2.6.31, created on 2020-09-04 18:09:18
          compiled from themes/SuiteP/include/MySugar/tpls/MySugar.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getscript', 'themes/SuiteP/include/MySugar/tpls/MySugar.tpl', 59, false),array('function', 'counter', 'themes/SuiteP/include/MySugar/tpls/MySugar.tpl', 80, false),array('function', 'sugar_getjspath', 'themes/SuiteP/include/MySugar/tpls/MySugar.tpl', 247, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getscript', 'themes/SuiteP/include/MySugar/tpls/MySugar.tpl', 59, false),array('function', 'counter', 'themes/SuiteP/include/MySugar/tpls/MySugar.tpl', 80, false),array('function', 'sugar_getjspath', 'themes/SuiteP/include/MySugar/tpls/MySugar.tpl', 254, false),)), $this); ?>
 <?php echo '
     <style>
         .menu {
@@ -86,7 +86,7 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getsc
         <?php if (! $this->_tpl_vars['lock_homepage']): ?>
             <li id="tab-actions" class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#"><?php echo $this->_tpl_vars['APP']['LBL_LINK_ACTIONS']; ?>
-<span class="suitepicon suitepicon-action-caret"></span></a>
+ <div class="svg-size"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg></div></a>
                 <?php $_smarty_tpl_vars = $this->_tpl_vars;
 $this->_smarty_include(array('smarty_include_tpl_file' => 'themes/SuiteP/include/MySugar/tpls/actions_menu.tpl', 'smarty_include_vars' => array()));
 $this->_tpl_vars = $_smarty_tpl_vars;
@@ -107,7 +107,14 @@ unset($_smarty_tpl_vars);
             <div class="tab-pane fade" id='tab_content_<?php echo $this->_tpl_vars['tabNum']; ?>
 '>
             <?php endif; ?>
-                <img src="themes/SuiteP/images/loading.gif" width="48" height="48" align="baseline" border="0" alt="">
+                <div class="content-loading">
+                    <!--<img src="themes/SuiteP/images/loading.gif" width="48" height="48" align="baseline" border="0" alt="">-->
+                    <div class="multi-ripple">
+                        <div></div>
+                        <div></div>
+                    </div>
+                </div>
+                
             </div>
         <?php endforeach; endif; unset($_from); ?>
     </div>

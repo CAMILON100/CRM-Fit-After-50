@@ -1,7 +1,7 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 13:45:51
+<?php /* Smarty version 2.6.31, created on 2020-09-05 23:01:56
          compiled from themes/SuiteP/tpls/_headerModuleList.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_link', 'themes/SuiteP/tpls/_headerModuleList.tpl', 61, false),array('function', 'sugar_translate', 'themes/SuiteP/tpls/_headerModuleList.tpl', 120, false),array('function', 'suite_check_access', 'themes/SuiteP/tpls/_headerModuleList.tpl', 126, false),array('function', 'counter', 'themes/SuiteP/tpls/_headerModuleList.tpl', 262, false),array('function', 'search_controller', 'themes/SuiteP/tpls/_headerModuleList.tpl', 411, false),array('modifier', 'lower', 'themes/SuiteP/tpls/_headerModuleList.tpl', 102, false),array('modifier', 'replace', 'themes/SuiteP/tpls/_headerModuleList.tpl', 102, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_link', 'themes/SuiteP/tpls/_headerModuleList.tpl', 61, false),array('function', 'sugar_translate', 'themes/SuiteP/tpls/_headerModuleList.tpl', 120, false),array('function', 'suite_check_access', 'themes/SuiteP/tpls/_headerModuleList.tpl', 126, false),array('function', 'counter', 'themes/SuiteP/tpls/_headerModuleList.tpl', 265, false),array('function', 'search_controller', 'themes/SuiteP/tpls/_headerModuleList.tpl', 414, false),array('modifier', 'lower', 'themes/SuiteP/tpls/_headerModuleList.tpl', 102, false),array('modifier', 'replace', 'themes/SuiteP/tpls/_headerModuleList.tpl', 102, false),)), $this); ?>
 <!--Start Responsive Top Navigation Menu -->
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 
@@ -179,10 +179,13 @@ if ($this->_foreach['lastViewed']['total'] > 0):
         </div>
         <div class="desktop-toolbar" id="toolbar">
              <?php if ($this->_tpl_vars['USE_GROUP_TABS']): ?>
-                <ul class="nav navbar-nav">
+                <ul class="nav navbar-nav d-flex align-items-center">
                     <li class="navbar-brand-container">
                             <!--<a class="navbar-brand with-home-icon suitepicon suitepicon-action-home" href="index.php?module=Home&action=index"></a>-->
-                                <a class="navbar-brand suitepicon" href="index.php?module=Home&action=index"><img src="custom/themes/default/images/company_logo.png" width="60px" height="60px" alt="Logo" style="margin-right:50px; margin-left: 30px; margin-top:-15px"/></a>
+                                <a style="top: 50%;transform: translateY(-50%);" class="navbar-brand suitepicon d-flex aling-items-center" href="index.php?module=Home&action=index">
+                                <img src="custom/themes/default/images/company_logo.png" width="60px" 
+                                height="60px" alt="Logo" 
+                                style="margin-right:50px; margin-left: 30px;"/></a>
                     </li>
                     <?php $this->assign('groupSelected', false); ?>
                     <?php $_from = $this->_tpl_vars['moduleTopMenu']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }$this->_foreach['moduleList'] = array('total' => count($_from), 'iteration' => 0);
@@ -722,11 +725,11 @@ if ($this->_foreach['lastViewed']['total'] > 0):
             </ul>
         </div>
         <div class="desktop-bar">
-            <ul id="toolbar" class="toolbar">
+            <ul id="toolbar" class="toolbar d-flex align-items-center" style="justify-content: flex-end">
                 <li id="quickcreatetop" class="create dropdown nav navbar-nav quickcreatetop">
-                    <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                    <a class="dropdown-toggle d-flex align-items-center" data-toggle="dropdown" aria-expanded="false">
                         <?php echo $this->_tpl_vars['APP']['LBL_CREATE_BUTTON_LABEL']; ?>
-<span class="suitepicon suitepicon-action-caret"></span>
+<div class="svg-size d-flex align-items-center"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"></path></svg></div>
                     </a>
                     <ul class="dropdown-menu" role="menu">
                         <li><a href="index.php?module=Accounts&action=EditView&return_module=Accounts&return_action=DetailView"><?php echo $this->_tpl_vars['APP']['LBL_QUICK_CREATE']; ?>
@@ -803,12 +806,12 @@ if ($this->_foreach['lastViewed']['total'] > 0):
 </div>
                 </li>
                 <li id="globalLinks" class="dropdown nav navbar-nav globalLinks-desktop">
-                    <button id="with-label" class="dropdown-toggle user-menu-button" title="<?php echo $this->_tpl_vars['CURRENT_USER']; ?>
+                    <button id="with-label" class="dropdown-toggle user-menu-button d-flex align-items-center" title="<?php echo $this->_tpl_vars['CURRENT_USER']; ?>
 "data-toggle="dropdown" aria-expanded="true">
-                        <span class="suitepicon suitepicon-action-current-user"></span>
-                        <span><?php echo $this->_tpl_vars['CURRENT_USER']; ?>
+                        <span style="color:#fff" class="suitepicon suitepicon-action-current-user m-r-10 m-l-10"></span>
+                        <span ><?php echo $this->_tpl_vars['CURRENT_USER']; ?>
 </span>
-                        <span class="suitepicon suitepicon-action-caret"></span>
+                        <div class="svg-size"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"></path></svg></div>
                     </button>
                     <ul class="dropdown-menu user-dropdown user-menu" role="menu" aria-labelledby="with-label">
                         <li role="presentation">

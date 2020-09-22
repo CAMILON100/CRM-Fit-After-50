@@ -107,6 +107,7 @@ RedirectMatch 403 (?i)/+files\.md5$
 <IfModule mod_headers.c>
     Header set X-Content-Type-Options "nosniff"
 </IfModule>
+
 <IfModule mod_rewrite.c>
         RewriteEngine On
         RewriteCond %{REQUEST_FILENAME} !-d

@@ -1,7 +1,7 @@
-<?php /* Smarty version 2.6.31, created on 2020-08-30 15:12:11
+<?php /* Smarty version 2.6.31, created on 2020-09-04 18:35:50
          compiled from modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_translate', 'modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl', 50, false),array('function', 'html_options', 'modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl', 59, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_translate', 'modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl', 64, false),array('function', 'html_options', 'modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl', 73, false),)), $this); ?>
 
 <form name='form_<?php echo $this->_tpl_vars['id']; ?>
 ' id='form_<?php echo $this->_tpl_vars['id']; ?>
@@ -9,12 +9,26 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_trans
 <div class="dashletNonTable" style='white-space:nowrap;'>
   <table border=0 cellspacing=0 cellpadding=2>
     <tr>
-      <td nowrap="nowrap"><span id='more_img_<?php echo $this->_tpl_vars['id']; ?>
-'><?php echo $this->_tpl_vars['more_img']; ?>
-</span><span id='less_img_<?php echo $this->_tpl_vars['id']; ?>
-' style="display:none;"><?php echo $this->_tpl_vars['less_img']; ?>
-</span> <b><?php echo $this->_tpl_vars['user_name']; ?>
-</b>&nbsp;</td>
+      <td nowrap="nowrap ">
+        <div class="d-flex align-items-center">
+          <span style="cursor:pointer;width:20px;" id='more_img_<?php echo $this->_tpl_vars['id']; ?>
+'>
+            <?php echo $this->_tpl_vars['more_img']; ?>
+
+          <!--<div class="m-r-5 svg-size-default d-flex aling-items-center">
+            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"/></svg>
+          </div>-->
+          
+        </span>
+        <span id='less_img_<?php echo $this->_tpl_vars['id']; ?>
+' style="display:none;cursor:pointer;width:20px;"><?php echo $this->_tpl_vars['less_img']; ?>
+</span> 
+        <b class="m-l-10"><?php echo $this->_tpl_vars['user_name']; ?>
+</b>&nbsp;
+        </div>
+      
+      
+      </td>
       <td style="padding-right: 5px;"><input id="text" name="text" type="text" size='25' maxlength='100' value="" title="<?php echo smarty_function_sugar_translate(array('label' => 'LBL_POST_TITLE','module' => 'SugarFeed'), $this);?>
  <?php echo $this->_tpl_vars['user_name']; ?>
  "/></td>

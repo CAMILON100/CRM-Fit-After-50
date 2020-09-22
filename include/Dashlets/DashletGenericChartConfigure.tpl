@@ -55,7 +55,7 @@
 <input type='hidden' name='configure' value='true'>
 <input type='hidden' id='dashletType' name='dashletType' value='{$dashletType}' />
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%" class="edit view">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="edit view ">
 	<tr>
 	    <td scope='row'>
 		    {$title}

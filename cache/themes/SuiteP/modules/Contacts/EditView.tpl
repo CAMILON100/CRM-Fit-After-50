@@ -900,7 +900,7 @@ title='' tabindex="0"
     });
 {/literal}
 </script>
-<script type="text/javascript" src='include/SugarFields/Fields/Image/SugarFieldFile.js?v=_0oPfo8msjfwYwQ_vXx_OA'></script>
+<script type="text/javascript" src='include/SugarFields/Fields/Image/SugarFieldFile.js?v=4LwecGz5hXoElB9nasxijw'></script>
 {if !empty($fields.photo.value) }
 {assign var=showRemove value=true}
 {else}

@@ -600,3 +600,8 @@ $(function () {
   }, 100);
 
 });
+
+
+window.addEventListener('load', function() {
+
+})

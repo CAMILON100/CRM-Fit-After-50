@@ -18,7 +18,7 @@
 </script>
 {/literal}
 <BR>
-<form id="ConfigureSettings" name="ConfigureSettings" enctype='multipart/form-data' method="POST" action="index.php?module=Esignature&action=esignature&process=true">
+<form id="ConfigureSettings"  name="ConfigureSettings" enctype='multipart/form-data' method="POST" action="index.php?module=Esignature&action=esignature&process=true">
 
     <span class='error'>{$error.main}</span>
 

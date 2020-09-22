@@ -114,7 +114,7 @@
 {/if}
 {$multiSelectData}
 {if $hideTable == false}
-	<div class="list-view-rounded-corners">
+	<div class="list-view-rounded-corners table-ui">
 		<table cellpadding='0' cellspacing='0' border='0' class='list view table-responsive'>
 	<thead>
 		{assign var="link_select_id" value="selectLinkTop"}

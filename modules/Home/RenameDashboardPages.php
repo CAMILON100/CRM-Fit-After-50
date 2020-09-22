@@ -50,7 +50,7 @@ $pages = $current_user->getPreference('pages', $type);
 if (count($pages) > 1) {
     if (!isset($_POST['dashName'])) {
         $html = "<form method='post' name='removepageform'/>";
-        $html .= "<table>";
+        $html .= "<table class='dash-name-table'>";
         $html .= "<tr>";
         $html .= "<td><label for='dashName'>".$GLOBALS['app_strings']['LBL_ENTER_DASHBOARD_NAME']." </label></td>";
         $html .= "<td><input name='dashName' id='dashName' value='" .$pages[$_POST['page_id']]['pageTitle'] ."'/></td>";

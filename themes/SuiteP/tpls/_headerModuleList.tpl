@@ -168,10 +168,13 @@
         </div>
         <div class="desktop-toolbar" id="toolbar">
              {if $USE_GROUP_TABS}
-                <ul class="nav navbar-nav">
+                <ul class="nav navbar-nav d-flex align-items-center">
                     <li class="navbar-brand-container">
                             <!--<a class="navbar-brand with-home-icon suitepicon suitepicon-action-home" href="index.php?module=Home&action=index"></a>-->
-                                <a class="navbar-brand suitepicon" href="index.php?module=Home&action=index"><img src="custom/themes/default/images/company_logo.png" width="60px" height="60px" alt="Logo" style="margin-right:50px; margin-left: 30px; margin-top:-15px"/></a>
+                                <a style="top: 50%;transform: translateY(-50%);" class="navbar-brand suitepicon d-flex aling-items-center" href="index.php?module=Home&action=index">
+                                <img src="custom/themes/default/images/company_logo.png" width="60px" 
+                                height="60px" alt="Logo" 
+                                style="margin-right:50px; margin-left: 30px;"/></a>
                     </li>
                     {assign var="groupSelected" value=false}
                     {foreach from=$moduleTopMenu item=module key=name name=moduleList}
@@ -583,10 +586,10 @@
             </ul>
         </div>
         <div class="desktop-bar">
-            <ul id="toolbar" class="toolbar">
+            <ul id="toolbar" class="toolbar d-flex align-items-center" style="justify-content: flex-end">
                 <li id="quickcreatetop" class="create dropdown nav navbar-nav quickcreatetop">
-                    <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                        {$APP.LBL_CREATE_BUTTON_LABEL}<span class="suitepicon suitepicon-action-caret"></span>
+                    <a class="dropdown-toggle d-flex align-items-center" data-toggle="dropdown" aria-expanded="false">
+                        {$APP.LBL_CREATE_BUTTON_LABEL}<div class="svg-size d-flex align-items-center"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"></path></svg></div>
                     </a>
                     <ul class="dropdown-menu" role="menu">
                         <li><a href="index.php?module=Accounts&action=EditView&return_module=Accounts&return_action=DetailView">{$APP.LBL_QUICK_CREATE}{sugar_translate module="Accounts" label="LBL_MODULE_NAME"}</a></li>
@@ -642,10 +645,10 @@
                     <div id="alerts" class="dropdown-menu" role="menu">{$APP.LBL_EMAIL_ERROR_VIEW_RAW_SOURCE}</div>
                 </li>
                 <li id="globalLinks" class="dropdown nav navbar-nav globalLinks-desktop">
-                    <button id="with-label" class="dropdown-toggle user-menu-button" title="{$CURRENT_USER}"data-toggle="dropdown" aria-expanded="true">
-                        <span class="suitepicon suitepicon-action-current-user"></span>
-                        <span>{$CURRENT_USER}</span>
-                        <span class="suitepicon suitepicon-action-caret"></span>
+                    <button id="with-label" class="dropdown-toggle user-menu-button d-flex align-items-center" title="{$CURRENT_USER}"data-toggle="dropdown" aria-expanded="true">
+                        <span style="color:#fff" class="suitepicon suitepicon-action-current-user m-r-10 m-l-10"></span>
+                        <span >{$CURRENT_USER}</span>
+                        <div class="svg-size"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M8.12 9.29L12 13.17l3.88-3.88c.39-.39 1.02-.39 1.41 0 .39.39.39 1.02 0 1.41l-4.59 4.59c-.39.39-1.02.39-1.41 0L6.7 10.7c-.39-.39-.39-1.02 0-1.41.39-.38 1.03-.39 1.42 0z"></path></svg></div>
                     </button>
                     <ul class="dropdown-menu user-dropdown user-menu" role="menu" aria-labelledby="with-label">
                         <li role="presentation">
