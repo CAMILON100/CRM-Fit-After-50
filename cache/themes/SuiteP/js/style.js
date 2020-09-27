@@ -605,3 +605,16 @@ $(function () {
 window.addEventListener('load', function() {
 
 })
+
+var w = $(window).width()
+
+var h = $(window).height();
+
+$(window).on('resize', function(){
+  w = $(window).width()
+  h = $(window).height();
+  var win = $(this); //this = window
+  console.clear()
+  console.log('width:' + w, 'height:' + h)
+ 
+});

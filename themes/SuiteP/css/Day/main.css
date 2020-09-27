@@ -3080,4 +3080,77 @@ input[type=submit] {
   content: "";
 }
 
+div.p_login .error {
+  margin: 0 !important;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 14px;
+}
+
+div.p_login #loginform {
+  margin: 3% auto 3% auto !important;
+}
+
+.form-signin img {
+  margin: 5px 0;
+  height: 145px !important;
+  width: 145px !important;
+}
+
+.mobileheader .modulename a {
+  font-weight: 400;
+}
+
+.create.quickcreatetop .dropdown-toggle {
+  display: flex;
+}
+
+@media (min-width: 751px) {
+  .quickcreatetop .suitepicon-action-caret {
+    display: flex;
+    align-items: center;
+  }
+}
+@media (min-width: 751px) {
+  .tablet-bar > .toolbar {
+    display: flex;
+    line-height: c;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+@media (min-width: 751px) {
+  .tablet-bar > .toolbar > li > .btn.searchbutton {
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+#searchbutton {
+  margin-right: 0px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 40px !important;
+  height: 40px;
+}
+
+@media (min-width: 751px) {
+  .tablet-bar > .toolbar > li > .btn {
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media (min-width: 751px) {
+  .globalLinks-mobile .suitepicon-action-current-user {
+    color: #fff;
+    display: flex;
+    align-items: center;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
