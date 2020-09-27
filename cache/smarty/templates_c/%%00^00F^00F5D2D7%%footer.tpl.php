@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-09-01 21:49:21
+<?php /* Smarty version 2.6.31, created on 2020-09-27 16:53:08
          compiled from themes/SuiteP/tpls/footer.tpl */ ?>
 </div>
 </div>
@@ -127,4 +127,4 @@
     </div><!-- /.modal-dialog -->
 </div>
 </body>
-</html>
+</html>
