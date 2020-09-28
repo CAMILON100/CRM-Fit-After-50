@@ -944,3 +944,24 @@ Sun Sep 13 02:42:57 2020 [69563][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1
 Sun Sep 13 20:24:24 2020 [72750][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
 Sun Sep 13 20:24:48 2020 [72411][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
 Sun Sep 13 21:32:04 2020 [73746][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl:465 - styleChecked is not set
+Sun Sep 27 04:37:24 2020 [14240][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'cta'
+Sun Sep 27 05:00:45 2020 [1236][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'cta'
+Sun Sep 27 06:16:49 2020 [1236][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'cta'
+Sun Sep 27 16:16:15 2020 [1272][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'cta'
+Sun Sep 27 16:44:35 2020 [1272][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'cta'
+Sun Sep 27 16:44:38 2020 [1272][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'cta'
+Sun Sep 27 16:45:06 2020 [1272][-none-][FATAL] Could not connect to DB server localhost as root. port : Unknown database 'cta'
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'cta.currencies' doesn't exist
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Users' AND  deleted = 0: MySQL error 1146: Table 'cta.fields_meta_data' doesn't exist
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Employees' AND  deleted = 0: MySQL error 1146: Table 'cta.fields_meta_data' doesn't exist
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='EmailAddresses' AND  deleted = 0: MySQL error 1146: Table 'cta.fields_meta_data' doesn't exist
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='UserPreferences' AND  deleted = 0: MySQL error 1146: Table 'cta.fields_meta_data' doesn't exist
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Administration' AND  deleted = 0: MySQL error 1146: Table 'cta.fields_meta_data' doesn't exist
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
+Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'cta.config' doesn't exist

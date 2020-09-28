@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 // created: 2020-09-28 13:58:11
+=======
+// created: 2020-09-28 04:59:15
+>>>>>>> 0d0bfc40b12888f6fc3851f2180302da934faa47
 $mod_strings = array (
   'LBL_ID' => 'ID:',
   'LBL_DATE_ENTERED' => 'Date Created',
