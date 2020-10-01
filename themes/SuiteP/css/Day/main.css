@@ -3203,4 +3203,9 @@ div.p_login #loginform {
   border: 1px solid #3699ff;
 }
 
+#pagecontent .error:before {
+  right: auto !important;
+  width: auto !important;
+}
+
 /*# sourceMappingURL=main.css.map */

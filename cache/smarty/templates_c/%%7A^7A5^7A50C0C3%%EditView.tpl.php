@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-09-04 20:37:45
+<?php /* Smarty version 2.6.31, created on 2020-10-01 04:00:53
          compiled from modules/Configurator/tpls/EditView.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_help', 'modules/Configurator/tpls/EditView.tpl', 139, false),array('function', 'sugar_getimage', 'modules/Configurator/tpls/EditView.tpl', 440, false),)), $this); ?>
@@ -601,3 +601,4 @@ function toggleDisplay_2(div_string){
 
 </script>
 '; ?>
+
