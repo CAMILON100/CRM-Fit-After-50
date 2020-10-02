@@ -1,5 +1,5 @@
 <?php
-// created: 2020-08-30 13:45:43
+// created: 2020-10-02 02:56:08
 $mod_strings = array (
   'ERR_NO_2FACTOR_EMAIL_TMPL' => 'Two-factor email template is not set, please change settings on password management page.',
   'ERR_NO_2FACTOR_EMAIL_TMPL_CODE' => 'Two-factor email template should contain a $code at least.',

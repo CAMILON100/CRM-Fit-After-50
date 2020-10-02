@@ -3203,9 +3203,64 @@ div.p_login #loginform {
   border: 1px solid #3699ff;
 }
 
+#ConfigureSettings_save_button {
+  height: 42px;
+  letter-spacing: 1px;
+  background-color: #3699ff;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 400;
+  cursor: pointer;
+  border-color: #3699ff;
+  line-height: 42px;
+}
+
 #pagecontent .error:before {
   right: auto !important;
   width: auto !important;
+}
+
+#ConfigureSettings_cancel_button {
+  height: 42px;
+  letter-spacing: 1px;
+  background-color: #3699ff;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 400;
+  cursor: pointer;
+  border-color: #3699ff;
+  line-height: 42px;
+}
+
+.m-t-10 {
+  margin-top: 10px !important;
+}
+
+.btn-principal {
+  height: 42px !important;
+  display: flex !important;
+  align-items: center !important;
+  letter-spacing: 1px !important;
+  background-color: #3699ff !important;
+  color: #fff !important;
+  font-size: 13px !important;
+  font-weight: 400 !important;
+  cursor: pointer !important;
+  border-color: #3699ff !important;
+  line-height: 42px !important;
+  margin-bottom: 10px !important;
+  display: inline-block !important;
+}
+
+.userinterface .edit tr td[scope=row], .proxy .edit tr td[scope=row], .avanced .edit tr td[scope=row], .visibled .edit tr td[scope=row] {
+  padding: 10px 15px !important;
+}
+.userinterface td, .proxy td, .avanced td, .visibled td {
+  padding: 10px 15px !important;
+}
+.userinterface input[type=text], .proxy input[type=text], .avanced input[type=text], .visibled input[type=text] {
+  padding: 10px 15px;
+  width: 100%;
 }
 
 /*# sourceMappingURL=main.css.map */

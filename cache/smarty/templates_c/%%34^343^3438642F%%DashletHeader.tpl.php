@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-09-28 01:21:24
+<?php /* Smarty version 2.6.31, created on 2020-10-02 02:56:11
          compiled from themes%5CSuiteP%5Cinclude/Dashlets/DashletHeader.tpl */ ?>
 <div onmouseover="this.style.cursor = 'move';" id="dashlet_header_<?php echo $this->_tpl_vars['DASHLET_ID']; ?>
 " class="hd dashlet">

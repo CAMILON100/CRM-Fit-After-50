@@ -2776,8 +2776,73 @@ div.p_login #loginform{
 
   }
 }
+@mixin btn2 {
+  height: 42px;
 
+  letter-spacing: 1px;
+  background-color: #3699ff;
+  color: #fff;
+  font-size: 13px;
+    font-weight: 400;
+  cursor: pointer;
+  border-color: #3699ff;
+  line-height: 42px;
+
+}
+@mixin btn {
+  height: 42px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 1px;
+  background-color: #3699ff;
+  color: #fff;
+  font-size: 13px;
+    font-weight: 400;
+  cursor: pointer;
+  border-color: #3699ff;
+  line-height: 42px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+#ConfigureSettings_save_button{
+  @include btn2()
+}
 #pagecontent .error:before{
   right: auto !important;
   width: auto !important;
+}
+
+#ConfigureSettings_cancel_button{
+  @include btn2()
+}
+.m-t-10{
+  margin-top: 10px !important;
+}
+.btn-principal{
+  height: 42px!important; 
+  display: flex!important; 
+  align-items: center!important; 
+  letter-spacing: 1px !important;
+  background-color: #3699ff !important;
+  color: #fff !important;
+  font-size: 13px !important;
+    font-weight: 400 !important;
+  cursor: pointer !important;
+  border-color: #3699ff!important;
+  line-height: 42px !important;
+  margin-bottom: 10px !important;
+  display: inline-block !important;
+}
+.userinterface, .proxy, .avanced, .visibled{
+  .edit tr td[scope=row]{
+    padding: 10px 15px !important;
+  }
+  td{
+ 
+    padding: 10px 15px !important;
+  }
+  input[type=text] {
+    padding: 10px 15px;
+    width: 100%;
+  }
 }
