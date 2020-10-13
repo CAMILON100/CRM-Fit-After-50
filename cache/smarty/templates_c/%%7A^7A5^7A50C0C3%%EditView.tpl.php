@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2020-10-02 04:08:06
+<?php /* Smarty version 2.6.31, created on 2020-10-12 18:53:51
          compiled from modules/Configurator/tpls/EditView.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_help', 'modules/Configurator/tpls/EditView.tpl', 188, false),array('function', 'sugar_getimage', 'modules/Configurator/tpls/EditView.tpl', 436, false),)), $this); ?>
@@ -37,7 +37,7 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_help'
         <div class="main main-content-setting">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="interfases-ui">
+                    <div class="interfases-ui" data-ui="user">
                         <?php echo '<?xml'; ?>
  version="1.0" encoding="iso-8859-1"<?php echo '?>'; ?>
 
@@ -70,7 +70,7 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_help'
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="interfases-ui">
+                    <div class="interfases-ui" data-ui="log">
                         <?php echo '<?xml'; ?>
  version="1.0"<?php echo '?>'; ?>
 

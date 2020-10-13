@@ -34,7 +34,7 @@ reasonably feasible for technical reasons, the Appropriate Legal Notices must * 
         <div class="main main-content-setting">
             <div class="row">
                 <div class="col-md-4">
-                    <div class="interfases-ui">
+                    <div class="interfases-ui" data-ui="user">
                         <?xml version="1.0" encoding="iso-8859-1"?>
                         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 480 480" style="enable-background: new 0 0 480 480;" xml:space="preserve">
                             <g>
@@ -64,7 +64,7 @@ reasonably feasible for technical reasons, the Appropriate Legal Notices must * 
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="interfases-ui">
+                    <div class="interfases-ui" data-ui="log">
                         <?xml version="1.0"?>
                         <svg xmlns="http://www.w3.org/2000/svg" id="OutLine" viewBox="0 0 512 512" width="512" height="512">
                             <path

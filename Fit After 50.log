@@ -965,3 +965,11 @@ Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
 Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL]  Query Failed: SELECT * FROM fields_meta_data WHERE  custom_module='Administration' AND  deleted = 0: MySQL error 1146: Table 'cta.fields_meta_data' doesn't exist
 Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Mysqli_query failed.
 Sun Sep 27 16:45:23 2020 [1272][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'cta.config' doesn't exist
+Mon Oct 12 18:44:13 2020 [17328][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon Oct 12 18:44:14 2020 [17328][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.87], username[admin]
+Mon Oct 12 18:44:15 2020 [17328][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon Oct 12 18:44:15 2020 [17328][-none-][FATAL] FAILED LOGIN:attempts[2], ip[192.168.1.87], username[admin]
+Mon Oct 12 18:44:21 2020 [17328][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon Oct 12 18:44:21 2020 [17328][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.87], username[admin]
+Mon Oct 12 18:44:31 2020 [17328][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon Oct 12 18:44:31 2020 [17328][-none-][FATAL] FAILED LOGIN:attempts[1], ip[192.168.1.87], username[admin]

@@ -3263,4 +3263,191 @@ div.p_login #loginform {
   width: 100%;
 }
 
+.interfases-ui {
+  cursor: pointer;
+}
+
+.edit.userinterface {
+  display: none;
+}
+.edit.proxy {
+  display: none;
+}
+.edit.avanced {
+  display: none;
+}
+.edit.visibled {
+  display: none;
+}
+
+.suitepicon-admin-user-management:before {
+  content: "";
+}
+
+.admin-panel .suitepicon {
+  top: 9px;
+  margin-left: 10px;
+}
+
+.screen.admin-panel {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.suitepicon-admin-roles:before {
+  content: "";
+}
+
+.suitepicon-admin-password:before, .suitepicon-admin-:before {
+  content: "";
+}
+
+.suitepicon-admin-security:before {
+  content: "";
+}
+
+.suitepicon-admin-security-suite-group-management:before {
+  content: "";
+}
+
+.suitepicon-admin-email-queue:before {
+  content: "";
+}
+
+.suitepicon-admin-system-settings:before {
+  content: "";
+}
+
+.suitepicon-admin-import:before {
+  content: "";
+}
+
+.suitepicon-admin-locale:before {
+  content: "";
+}
+
+.suitepicon-admin-upgrade-wizard:before {
+  content: "";
+}
+
+.suitepicon-admin-backups:before {
+  content: "";
+}
+
+.suitepicon-admin-languages:before {
+  content: "";
+}
+
+.suitepicon-admin-currencies:before {
+  content: "";
+}
+
+.suitepicon-admin-repair:before {
+  content: "";
+}
+
+.suitepicon-admin-global-search:before {
+  content: "";
+}
+
+.suitepicon-admin-diagnostic:before {
+  content: "";
+}
+
+.suitepicon-admin-connectors:before {
+  content: "";
+}
+
+.suitepicon-admin-oauth-keys:before {
+  content: "";
+}
+
+.suitepicon-admin-activity-streams:before {
+  content: "";
+}
+
+.suitepicon-admin-themes:before {
+  content: "";
+}
+
+.suitepicon-admin-scheduler:before {
+  content: "";
+}
+
+.suitepicon-admin-email-settings:before {
+  content: "";
+}
+
+.suitepicon-admin-inbound-email:before {
+  content: "";
+}
+
+.suitepicon-admin-outbound-email:before {
+  content: "";
+}
+
+.suitepicon-admin-campaign-email-settings:before {
+  content: "";
+}
+
+.suitepicon-admin-studio:before {
+  content: "";
+}
+
+.suitepicon-admin-rename-modules:before {
+  content: "";
+}
+
+.suitepicon-admin-module-builder:before {
+  content: "";
+}
+
+.suitepicon-admin-history-subpanel:before {
+  content: "";
+}
+
+.suitepicon-admin-display-modules-and-subpanels:before {
+  content: "";
+}
+
+.suitepicon-admin-dropdown-editor:before {
+  content: "";
+}
+
+.suitepicon-admin-configure-module-menu-filters:before {
+  content: "";
+}
+
+.suitepicon-admin-module-loader:before {
+  content: "";
+}
+
+.suitepicon-admin-google-maps-settings:before {
+  content: "";
+}
+
+.suitepicon-admin-geocoded-counts:before {
+  content: "";
+}
+
+.suitepicon-admin-address-cache:before {
+  content: "";
+}
+
+.suitepicon-admin-geocode-addresses:before {
+  content: "";
+}
+
+.suitepicon-admin-geocoding-test:before {
+  content: "";
+}
+
+.suitepicon-admin-releases:before {
+  content: "";
+}
+
+.suitepicon.suitepicon-admin-aos-settings:before {
+  font-family: suitepicon !important;
+}
+
 /*# sourceMappingURL=main.css.map */
